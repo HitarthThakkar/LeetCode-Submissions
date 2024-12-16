@@ -1,79 +1,72 @@
-#define ll long long int
-class Solution
-{
-private:
-long long int powermod(long long base, long long exp)
-{
-    ll result = 1, mod = 1000000007;
-    while(exp)
-    {
-        if(exp & 1)
-        {
-            result *= base;
-            result %= mod;
+/*  
+    previous submission was here before this came and it was mind-fuckingly
+    long but ut was correct and i personally made modulo mistakes and i 
+    liked it so this que is actually MODULO QUESTION.
+    but u can look the soln easy as this one is.
+    so just see the soln for the concept shit for this particular que.
+    but if actually want to learn that why is this hard then goto last
+    submission and see actual implementation that you would do and how u
+    actually fuck things.
+    - Hitarth @16th-dec-2024-7:14pm
+*/
+
+#define ll long long 
+class Solution {
+    const int mod = 1e9+7;
+
+    int modpow(long base, int exp) {
+        long result = 1;
+        while (exp) {
+            if (exp & 1) {
+                result *= base;
+                result %= mod;
+            }
+            base *= base;
+            base %= mod;
+            exp >>= 1;
         }
-        base *= base;
-        base %= mod;
-        exp >>= 1;
+        return result;
     }
-    return result;
-}
 
 public:
-    vector<int> getFinalState(vector<int>& nums, int k, int multiplier)
-    {
-        if(multiplier == 1) return nums;
-        ll mod = 1000000007;
-        set<pair<ll, int>> s, ns, nns;
+    vector<int> getFinalState(vector<int>& nums, int k, int mul) {
+        if (mul == 1) return nums;
+
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
         int n = nums.size();
-        for(int i = 0; i < n; i++) s.insert({1LL * nums[i], i});
-        int limiter = ((--s.end())->first);
-        while(( ((s.begin())->first * multiplier) <= limiter) && (k--))
-        {
-            pair<ll, int> get;
-            get.first = s.begin()->first, get.second = s.begin()->second;
-            get.first = ((get.first % mod) * (multiplier % mod));
-            s.erase(s.begin());
-            s.insert(get);
+        ll maxi = *max_element(nums.begin(), nums.end());
+
+        for (int i = 0; i < n; i++) {
+            pq.push({nums[i], i});
         }
-        // cout << k << endl;
-        if(k > 0)
-        {
-            ll megaMul = powermod(multiplier, (k / n));
-            // cout << megaMul << endl;
-            for(auto ele : s)
-            {
-                ll myNum = (((ele.first) % mod) * (megaMul % mod));
-                ns.insert({myNum, ele.second});
-            }
-            // for(auto ele : ns) cout << ele.first << " "; cout << endl;
-            ll leftK = (k % n);
-            // cout << leftK << endl;
-            for(int i = 0; i < leftK; i++)
-            {
-                pair<ll, int> get;
-                get.first = ns.begin()->first, get.second = ns.begin()->second;
-                get.first = ((get.first % mod) * (multiplier % mod));
-                ns.erase(ns.begin());
-                nns.insert(get);
-            }
-            for(auto ele : ns)
-            {
-                nns.insert(ele);
-            }
+
+        while (k && 1LL*pq.top().first * mul <= maxi) {
+            int val = pq.top().first;
+            int ind = pq.top().second;
+            pq.pop();
+            val = (val * mul) % mod;
+            pq.push({val, ind});
+            k--;
         }
-        else
-        {
-            for(auto ele : s)
-            {
-                nums[ele.second] = (ele.first % mod);
+
+        int oldMul = mul;
+        ll newMul = modpow(mul, k / n);
+
+        vector<int> res(n);
+        while (!pq.empty()) {
+            ll val = pq.top().first;
+            int ind = pq.top().second;
+            pq.pop();
+
+            val = (val * newMul) % mod;
+            if (k % n > 0) {
+                val = (val * oldMul) % mod;
+                k--;
             }
-            return nums;
+
+            res[ind] = val;
         }
-        for(auto ele : nns)
-        {
-            nums[ele.second] = (ele.first % mod);
-        }
-        return nums;
+
+        return res;
     }
 };
