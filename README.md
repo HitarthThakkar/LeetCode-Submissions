@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
@@ -99,9 +102,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
