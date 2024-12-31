@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
