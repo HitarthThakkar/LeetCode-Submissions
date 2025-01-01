@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2580-circular-sentence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
