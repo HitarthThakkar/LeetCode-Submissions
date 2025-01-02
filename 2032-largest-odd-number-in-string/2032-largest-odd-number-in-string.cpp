@@ -3,25 +3,16 @@ class Solution
 public:
     string largestOddNumber(string num)
     {
-        int lastOdd = -1;
-        string ans;
-        
+        int loi = -1;
         for(int i = num.length() - 1; i >= 0; i--)
         {
             if(((int)num[i] - 48) & 1)
             {
-                lastOdd = i;
+                loi = i;
                 break;
             }
         }
-
-        if(lastOdd == -1)
-        {
-            return ans;
-        }
-        else
-        {
-            return num.substr(0, lastOdd + 1);
-        }
+        if(loi == -1) return "";
+        else return num.substr(0, loi + 1);
     }
 };
