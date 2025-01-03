@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
