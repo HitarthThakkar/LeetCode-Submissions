@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -265,4 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
