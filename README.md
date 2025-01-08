@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3451-string-compression-iii) |
 ## Array
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -268,13 +271,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
