@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
