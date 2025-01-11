@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3451-string-compression-iii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
