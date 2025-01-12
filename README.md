@@ -337,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
