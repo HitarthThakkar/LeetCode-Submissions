@@ -3,14 +3,15 @@ class Solution
 public:
     int minimumLength(string s)
     {
-        int ans = 0;
-        vector<int> freq(26, 0);
-        for(auto ele : s) freq[ele - 'a']++;
-        for(auto ele : freq)
+        int came = 0;
+        int freq = 0;
+        for(auto ele : s)
         {
-            if(ele & 1) ans++;
-            else if(ele > 0) ans += 2;
+            came |= (1 << (ele - 'a'));
+            freq ^= (1 << (ele - 'a'));
         }
-        return ans;
+        came = __builtin_popcount(came);
+        freq = __builtin_popcount(freq);
+        return ((came * 2) - freq);
     }
 };
