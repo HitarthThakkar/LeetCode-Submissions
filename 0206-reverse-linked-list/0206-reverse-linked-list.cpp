@@ -1,20 +1,17 @@
 class Solution
 {
+private:
+    ListNode* reverseLL(ListNode* prev, ListNode* cur)
+    {
+        if(cur) {
+            ListNode* nxt = cur->next; cur->next = prev;
+            return reverseLL(cur, nxt);
+        }
+        else return prev;
+    }
 public:
     ListNode* reverseList(ListNode* head)
     {
-        if(!head || !head->next) return head;
-        ListNode* prev = NULL;
-        ListNode* cur = head;
-        ListNode* nxt = head->next;
-        while(nxt)
-        {
-            cur->next = prev;
-            prev = cur;
-            cur = nxt;
-            nxt = nxt->next;
-        }
-        cur->next = prev;
-        return cur;
+        return reverseLL(NULL, head);
     }
 };
