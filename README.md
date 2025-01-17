@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3394-minimum-array-end) |
