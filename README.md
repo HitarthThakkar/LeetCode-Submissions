@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0952-word-subsets) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
