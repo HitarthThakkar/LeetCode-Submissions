@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 ## Memoization
 |  |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
