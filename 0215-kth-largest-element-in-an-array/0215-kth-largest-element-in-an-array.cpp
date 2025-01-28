@@ -1,20 +1,52 @@
 class Solution
 {
 public:
-    int findKthLargest(std::vector<int>& nums, int k)
+    int findKthLargest(vector<int>& nums, int k)
     {
-        // Min_Heap storing first k elements
-        priority_queue<int, vector<int>, greater<int>> min_heap(nums.begin(), nums.begin() + k);
-        // for every element now on,
-        for (int i = k; i < nums.size(); i++)
+        int targetIdx = nums.size() - k;
+        return quickSelect(nums, 0, nums.size() - 1, targetIdx);
+    }
+    
+    int quickSelect(vector<int>& nums, int left, int right, int targetIdx)
+    {
+        if (left == right)
         {
-            if (nums[i] > min_heap.top()) // If greater than smallest one of those k elements then push
+            return nums[left];
+        }
+
+        int pivot = nums[left];
+        int low = left;
+        int high = right;
+
+        while (low <= high)
+        {
+            while (low <= high && nums[low] < pivot)
             {
-                min_heap.pop();
-                min_heap.push(nums[i]); // This way min-heap will contain first k largest elements.
+                low++;
+            }
+            while (low <= high && nums[high] > pivot)
+            {
+                high--;
+            }
+            if (low <= high)
+            {
+                swap(nums[low], nums[high]);
+                low++;
+                high--;
             }
         }
 
-        return min_heap.top(); // smallest of those k largest, i.e. 'k'th largest.
+        if (targetIdx <= high)
+        {
+            return quickSelect(nums, left, high, targetIdx);
+        }
+        else if (targetIdx >= low)
+        {
+            return quickSelect(nums, low, right, targetIdx);
+        }
+        else
+        {
+            return nums[targetIdx];
+        }
     }
 };
