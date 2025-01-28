@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
