@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
+| [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0792-binary-search) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1876-map-of-highest-peak) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
