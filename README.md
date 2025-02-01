@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
@@ -384,16 +386,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -550,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
