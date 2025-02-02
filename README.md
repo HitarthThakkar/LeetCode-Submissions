@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
