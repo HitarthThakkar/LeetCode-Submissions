@@ -9,13 +9,13 @@ public:
 
         if(target == nums[0]) return 0;
 
-        while(hi - lo > 1)
+        while(lo <= hi)
         {
             int mid = (lo + hi) / 2;
 
             if(nums[mid] == target) return mid;
 
-            if(nums[mid] > nums[0])
+            if(nums[mid] >= nums[0])
             {
                 if(target > nums[0] && target < nums[mid]) hi = mid - 1;
                 else lo = mid + 1;
@@ -27,8 +27,6 @@ public:
             }
         }
 
-        if(nums[lo] == target) return lo;
-        if(nums[hi] == target) return hi;
         return -1;
     }
 };
