@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Trie
 |  |
@@ -618,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
