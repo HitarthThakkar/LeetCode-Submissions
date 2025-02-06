@@ -5,10 +5,9 @@ public:
     MyStack() {}    
     void push(int x)
     {
-        vector<int> v;
-        while(!q.empty()) v.push_back(q.front()), q.pop();
+        int sz = q.size();
         q.push(x);
-        for(auto ele : v) q.push(ele);
+        while(sz--) q.push(q.front()), q.pop();
     }
     int pop() { int f = q.front(); q.pop(); return f; }
     int top() { return q.front(); }
