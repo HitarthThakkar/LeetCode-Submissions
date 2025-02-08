@@ -1,7 +1,7 @@
 class Solution
 {
 public:
-    void recur(int ind, int stat, vector<int>& temp, vector<int>& nums, vector<vector<int>>& ans)
+    void recur(int stat, vector<int>& temp, vector<int>& nums, vector<vector<int>>& ans)
     {
         if(temp.size() == nums.size())
         {
@@ -19,7 +19,7 @@ public:
             {
                 prevTaken = true;
                 temp.push_back(nums[i]);
-                recur(ind + 1, (stat | (1 << i)), temp, nums, ans);
+                recur((stat | (1 << i)), temp, nums, ans);
                 temp.pop_back();
             }
         }
@@ -29,7 +29,7 @@ public:
     {
         sort(nums.begin(), nums.end());
         vector<vector<int>> ans; vector<int> temp;
-        recur(0, 0, temp, nums, ans);
+        recur(0, temp, nums, ans);
         return ans;
     }
 };
