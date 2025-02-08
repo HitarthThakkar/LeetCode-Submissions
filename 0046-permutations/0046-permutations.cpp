@@ -1,29 +1,22 @@
+// https://www.youtube.com/watch?v=f2ic2Rsc9pU&t=645s [He is the GOAT]
 class Solution
 {
 public:
-    void recur(int status, vector<int>& temp, vector<int>& nums,vector<vector<int>>& ans)
+    void recur(int index, vector<int> &nums, vector<vector<int>> &ans)
     {
-        if(temp.size() == nums.size())
-        {
-            ans.push_back(temp);
-            return;
-        }
+        if (index == nums.size()) ans.push_back(nums);
 
-        for(int i = 0; i < nums.size(); i++)
+        for (int i = index; i < nums.size(); i++)
         {
-            if(((1 << i) & status) == 0)
-            {
-                temp.push_back(nums[i]);
-                recur((status | (1 << i)), temp, nums, ans);
-                temp.pop_back();
-            }
+            swap(nums[index], nums[i]);
+            recur(index + 1, nums, ans);
+            swap(nums[index], nums[i]);
         }
     }
-    vector<vector<int>> permute(vector<int>& nums)
+    vector<vector<int>> permute(vector<int> &nums)
     {
-        int status = 0;
-        vector<vector<int>> ans; vector<int> temp;
-        recur(status, temp, nums, ans);
+        vector<vector<int>> ans;
+        recur(0, nums, ans);
         return ans;
     }
 };
