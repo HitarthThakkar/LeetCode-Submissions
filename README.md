@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
@@ -633,10 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+| [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
+| [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
