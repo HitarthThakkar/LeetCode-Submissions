@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1731-even-odd-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1731-even-odd-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
