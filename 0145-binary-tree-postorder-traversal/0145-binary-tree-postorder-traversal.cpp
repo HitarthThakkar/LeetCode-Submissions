@@ -5,16 +5,41 @@ public:
     {
         vector<int> v;
         stack<TreeNode *> st;
-        if (root != NULL) st.push(root);
-        while (!st.empty())
+
+        TreeNode *cur = root;
+
+        while (cur != NULL || !st.empty())
         {
-            TreeNode *top = st.top();
-            v.push_back(top->val);
-            st.pop();
-            if(top->left) st.push(top->left);
-            if(top->right) st.push(top->right);
+            if (cur != NULL)
+            {
+                st.push(cur);
+                cur = cur->left;
+            }
+            else
+            {
+                TreeNode *temp = st.top()->right;
+
+                if (temp == NULL)
+                {
+                    temp = st.top();
+                    st.pop();
+
+                    v.push_back(temp->val);
+
+                    while (!st.empty() && temp == st.top()->right)
+                    {
+                        temp = st.top();
+                        st.pop();
+                        v.push_back(temp->val);
+                    }
+                }
+                else
+                {
+                    cur = temp;
+                }
+            }
         }
-        reverse(v.begin(), v.end());
+
         return v;
     }
 };
