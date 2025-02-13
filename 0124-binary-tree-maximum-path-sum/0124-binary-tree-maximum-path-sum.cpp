@@ -1,21 +1,18 @@
 class Solution
 {
 public:
-    int answer = -1e5;
-    int recur(TreeNode* node)
+    int recur(TreeNode* node, int &answer)
     {
         if(node == NULL) return 0;
-        int mai = node->val;
-        int left = recur(node->left);
-        int right = recur(node->right);
-        if(left == 0) left = -1e5;
-        if(right == 0) right = -1e5;
-        answer = max({answer, mai, left, right, left + mai, right + mai, left + right + mai});
-        return (max({0, left, right}) + mai);
+        int left = max(0, recur(node->left, answer));
+        int right = max(0, recur(node->right, answer));
+        answer = max(answer, left + right + node->val);
+        return (max(left, right) + node->val);
     }
     int maxPathSum(TreeNode* root)
     {
-        recur(root);
+        int answer = -1e8;
+        recur(root, answer);
         return answer;
     }
 };
