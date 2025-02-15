@@ -1,22 +1,18 @@
 class Solution
 {
+private:
+    void recur(TreeNode* node, int Depth, vector<int> &res)
+    {
+        if(node == NULL) return;
+        if(res.size() == Depth) res.push_back(node->val);
+        recur(node->right, Depth + 1, res);
+        recur(node->left, Depth + 1, res);
+    }
 public:
     vector<int> rightSideView(TreeNode* root)
     {
-        vector<int> result;
-        queue<TreeNode *> q;
-        if(root) q.push(root);
-        while(!q.empty())
-        {
-            int sz = q.size();
-            for(int i = 0; i < sz; i++)
-            {
-                if(i == sz - 1) result.push_back(q.front()->val);
-                if(q.front()->left) q.push(q.front()->left);
-                if(q.front()->right) q.push(q.front()->right);
-                q.pop();
-            }
-        }
-        return result;
+        vector<int> res;
+        recur(root, 0, res);
+        return res;
     }
 };
