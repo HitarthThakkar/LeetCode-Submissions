@@ -1,38 +1,20 @@
 class Solution
 {
 private:
-    bool recur(TreeNode* node, TreeNode* target, vector<TreeNode*> &path)
+    TreeNode* recur(TreeNode* node, TreeNode* p, TreeNode* q)
     {
-        if(node == NULL) return false;
-        if(node == target) { path.push_back(node); return true; }
-        path.push_back(node);
-        if(recur(node->left, target, path)) return true;
-        if(recur(node->right, target, path)) return true;
-        path.pop_back();
-        return false;
+        if(node == NULL) return NULL;
+        TreeNode * one = recur(node->left, p, q);
+        TreeNode * two = recur(node->right, p, q);
+        if(one == NULL && two == NULL)
+            if(node == p || node == q) return p; else return NULL;
+        if(one != NULL && two != NULL) return node;
+        if(node == p || node == q) return node;
+        if(one == NULL) return two; return one;
     }
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q)
     {
-        vector<TreeNode* > ppath, qpath;
-        recur(root, p, ppath);
-        recur(root, q, qpath);
-        reverse(ppath.begin(), ppath.end());
-        reverse(qpath.begin(), qpath.end());
-        TreeNode* ans;
-        while(ppath.size() > 0 && qpath.size() > 0)
-        {
-            if(ppath.back() == qpath.back())
-            {
-                ans = ppath.back();
-                ppath.pop_back();
-                qpath.pop_back();
-            }
-            else
-            {
-                return ans;
-            }
-        }
-        return ans;
+        return recur(root, p, q);
     }
 };
