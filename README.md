@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
