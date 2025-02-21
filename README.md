@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1731-even-odd-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1731-even-odd-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -779,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
