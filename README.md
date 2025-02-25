@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1876-map-of-highest-peak) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0507-perfect-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
