@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0979-di-string-match) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
