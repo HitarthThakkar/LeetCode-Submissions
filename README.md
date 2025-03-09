@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0216-combination-sum-iii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0507-perfect-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
 |  |
@@ -840,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
