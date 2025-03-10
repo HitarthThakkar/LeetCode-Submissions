@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0952-word-subsets) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0979-di-string-match) |
 | [0991-array-of-doubled-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0991-array-of-doubled-pairs) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
