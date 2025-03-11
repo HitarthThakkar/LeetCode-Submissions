@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0889-buddy-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0979-di-string-match) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0890-lemonade-change) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1078-remove-outermost-parentheses) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
