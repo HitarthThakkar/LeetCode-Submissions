@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0047-permutations-ii) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
