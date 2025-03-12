@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
+| [0744-network-delay-time](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1039-find-the-town-judge) |
@@ -860,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union Find
 |  |
