@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1894-merge-strings-alternately](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0979-di-string-match) |
+| [1894-merge-strings-alternately](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
