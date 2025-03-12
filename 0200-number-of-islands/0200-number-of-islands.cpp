@@ -1,4 +1,5 @@
-class Solution {
+class Solution
+{
 private:
     bool isValid(int i, int j, vector<vector<char>> &grid)
     {
@@ -17,10 +18,12 @@ private:
         }
     }
 public:
-    int numIslands(vector<vector<char>>& grid) {
+    int numIslands(vector<vector<char>>& grid)
+    {
+        // 2025 Hiring Prep Sprint Q10 [Easy dfs / bfs]
         int m = grid.size();
         int n = grid[0].size();
-        int fishes = 0;
+        int islands = 0;
         
         for(int i = 0; i < m; i++)
         {
@@ -28,12 +31,12 @@ public:
             {
                 if(grid[i][j] != '0')
                 {
-                    fishes++;
+                    islands++;
                     dfs(i, j, grid);
                 }
             }
         }
 
-        return fishes;
+        return islands;
     }
 };
