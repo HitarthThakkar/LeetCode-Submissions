@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0991-array-of-doubled-pairs) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
+| [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
