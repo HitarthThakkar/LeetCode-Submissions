@@ -3,6 +3,7 @@ class Solution
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix)
     {
+        // 2025 Hiring Prep Sprint Q7 [implementation & kinda math thinking]
         int m = matrix.size();
         int n = matrix[0].size();
         vector<int> res;
