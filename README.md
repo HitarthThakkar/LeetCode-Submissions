@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3639-zero-array-transformation-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
