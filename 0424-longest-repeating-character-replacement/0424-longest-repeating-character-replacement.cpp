@@ -13,8 +13,8 @@ public:
             while(sum - mex > k)
             {
                 f[s[left++] - 'A']--;
+                sum--;
                 mex = *max_element(f.begin(), f.end());
-                sum = accumulate(f.begin(), f.end(), 0);
             }
             ans = max(ans, right - left + 1);
             right++;
