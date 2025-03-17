@@ -4,11 +4,11 @@ class Solution
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k)
     {
-        vector<vector<vector<int>>> adj(n + 1);
+        vector<vector<pai>> adj(n + 1); // 1 based
         for(auto ele : times) adj[ele[0]].push_back({ele[1], ele[2]});
         priority_queue<pai, vector<pai>, greater<pai>> pq;
         vector<int> dist(n + 1, 1e9);
-        dist[0] = 0;
+        dist[0] = 0; // 1 based so donot consider 0.
         dist[k] = 0;
         pq.push({0, k});
         while (!pq.empty())
@@ -19,8 +19,8 @@ public:
 
             for (auto nei : adj[curr_node])
             {
-                int adjNode = nei[0];
-                int edgeWeight = nei[1];
+                int adjNode = nei.first;
+                int edgeWeight = nei.second;
                 if (distance + edgeWeight < dist[adjNode])
                 {
                     dist[adjNode] = distance + edgeWeight;
