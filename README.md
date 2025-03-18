@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2551-apply-operations-to-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3483-alternating-groups-ii) |
