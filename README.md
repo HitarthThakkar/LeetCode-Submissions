@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0047-permutations-ii) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
