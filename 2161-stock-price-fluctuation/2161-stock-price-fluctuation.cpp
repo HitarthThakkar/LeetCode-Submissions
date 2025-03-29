@@ -1,12 +1,12 @@
 class StockPrice
 {
 public:
+    // 2025 Hiring Prep Sprint Week_2 Q7
     map<int, int> mp;
     multiset<int> s;
     StockPrice() {}
     void update(int timestamp, int price) {
-        if(mp.find(timestamp) != mp.end())
-        {
+        if(mp.find(timestamp) != mp.end()) {
             auto it = s.find(mp[timestamp]);
             s.erase(it);
         }
