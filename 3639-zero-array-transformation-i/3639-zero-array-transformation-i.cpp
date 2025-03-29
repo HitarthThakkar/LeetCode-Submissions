@@ -3,6 +3,7 @@ class Solution
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries)
     {
+        // 2025 Hiring Prep Sprint Week_2 Q6
         int n = nums.size();
         vector<int> pfx(n, 0);
         for(auto q : queries) {
