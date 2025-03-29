@@ -3,11 +3,10 @@ class Solution
 public:
     bool canChange(string start, string target)
     {
-        string signature;
+        // 2025 Hiring Prep Sprint Week_2 Q8
+        string signature; int i = 0;
         for(auto ch : start) if(ch != '_') signature += ch;
-        int i = 0;
-        for(auto ch : target)
-            if(ch != '_') if(ch != signature[i++]) return false;
+        for(auto ch : target) if(ch != '_') if(ch != signature[i++]) return false;
         if(i < signature.length()) return false;
         int l = 0, r = 0;
         for(int i = 0; i < start.length(); i++)
