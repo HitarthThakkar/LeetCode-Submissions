@@ -12,6 +12,7 @@ private:
 public:
     bool validPalindrome(string s)
     {
+        // 2025 Hiring Prep Sprint Week_2 Q11
         if(s.length() < 3) return true;
         int l = 0, r = s.length() - 1;
         while(l < r) {
