@@ -1,6 +1,7 @@
 class Solution
 {
 public:
+    // 2025 Hiring Prep Sprint Week_3 Q8
     vector<int> v;
     int sum;
     Solution(vector<int>& w)
