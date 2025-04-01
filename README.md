@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
