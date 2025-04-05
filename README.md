@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2145-grid-game) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2383-add-two-integers) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1129,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
@@ -1146,4 +1151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
