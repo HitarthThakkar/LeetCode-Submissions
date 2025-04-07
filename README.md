@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
