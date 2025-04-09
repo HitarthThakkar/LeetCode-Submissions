@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
