@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1140,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
