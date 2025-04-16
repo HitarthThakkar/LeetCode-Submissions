@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0136-single-number) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
