@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0455-assign-cookies) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
