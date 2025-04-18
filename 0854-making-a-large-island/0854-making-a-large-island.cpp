@@ -1,3 +1,55 @@
+class DSU
+{
+private:
+    vector<int> size, parent;
+    int sz;
+
+public:
+
+    DSU(int n)
+    {
+        sz = n;
+        size.resize(n);
+        parent.resize(n);
+        for(int i = 0; i < n; i++) parent[i] = i, size[i] = 1;
+    }
+
+    int findUltimateParent(int a)
+    {
+        if(parent[a] == a) return a;
+        return parent[a] = findUltimateParent(parent[a]);
+    }
+
+    int getSize(int a)
+    {
+        return size[a];
+    }
+
+    bool inSameComponent(int a, int b)
+    {
+        return (findUltimateParent(a) == findUltimateParent(b));
+    }
+
+    void Union(int a, int b)
+    {
+        if(inSameComponent(a, b)) return;
+        
+        int p1 = findUltimateParent(a);
+        int p2 = findUltimateParent(b);
+        
+        if(size[p1] >= size[p2])
+        {
+            parent[p2] = p1;
+            size[p1] += size[p2];
+        }
+        else
+        {
+            parent[p1] = p2;
+            size[p2] += size[p1];
+        }
+    }
+};
+
 class Solution
 {
 private:
@@ -5,35 +57,17 @@ private:
     {
         return (i >= 0 && j >= 0 && i < m && j < n);
     }
-    int dfs(int r, int c, vector<vector<int>> &grid, int color)
-    {
-        vector<int> dr = {-1, 1, 0, 0};
-        vector<int> dc = {0, 0, -1, 1};
-
-        grid[r][c] = color;
-        int size = 1;
-
-        for(int i = 0; i < 4; i++)
-        {
-            int nr = r + dr[i];
-            int nc = c + dc[i];
-
-            if(isValid(nr, nc, grid.size(), grid[0].size()) && grid[nr][nc] == 1)
-            {
-                size += dfs(nr, nc, grid, color);
-            }
-        }
-
-        return size;
-    }
 public:
     int largestIsland(vector<vector<int>>& grid)
     {
         int m = grid.size();
         int n = grid[0].size();
+        int maxSize = 1;
 
-        vector<int> colors = {0, 0};
-        int maxSize = 0;
+        DSU mydsu(n * m);
+
+        vector<int> dr = {-1, 1, 0, 0};
+        vector<int> dc = {0, 0, -1, 1};
 
         for(int i = 0; i < m; i++)
         {
@@ -41,14 +75,25 @@ public:
             {
                 if(grid[i][j] == 1)
                 {
-                    colors.push_back(dfs(i, j, grid, colors.size()));
-                    maxSize = max(maxSize, colors.back());
+                    for(int k = 0; k < 4; k++)
+                    {
+                        int nr = i + dr[k];
+                        int nc = j + dc[k];
+                        if(isValid(nr, nc, m, n) && grid[nr][nc] == 1)
+                        {
+                            int v1 = (i * n) + j;
+                            int v2 = (nr * n) + nc;
+                            mydsu.Union(v1, v2);
+                            int parent = mydsu.findUltimateParent(v2);
+                            int size = mydsu.getSize(parent);
+                            maxSize = max(size, maxSize);
+                        }
+                    }
                 }
             }
         }
 
-        vector<int> dr = {-1, 1, 0, 0};
-        vector<int> dc = {0, 0, -1, 1};
+        cout << maxSize << endl;
 
         for(int i = 0; i < m; i++)
         {
@@ -57,17 +102,26 @@ public:
                 if(grid[i][j] == 0)
                 {
                     int size = 1;
-                    set<int> st;
+                    set<int> vis;
+
                     for(int k = 0; k < 4; k++)
                     {
                         int nr = i + dr[k];
                         int nc = j + dc[k];
-                        if(isValid(nr, nc, m, n))
+
+                        if(isValid(nr, nc, m, n) && grid[nr][nc] == 1)
                         {
-                            st.insert(grid[nr][nc]);
+                            int v2 = (nr * n) + nc;
+                            int parent = mydsu.findUltimateParent(v2);
+
+                            if(vis.find(parent) == vis.end())
+                            {
+                                size += mydsu.getSize(parent);
+                                vis.insert(parent);
+                            }
                         }
                     }
-                    for(auto ele : st) size += colors[ele];
+
                     maxSize = max(size, maxSize);
                 }
             }
