@@ -12,7 +12,6 @@ public:
         for(int i = 0; i < n; i++) parent[i] = i, size[i] = 1;
     }
 
-
     int findUltimateParent(int a)
     {
         if(parent[a] == a) return a;
@@ -42,12 +41,13 @@ public:
         }
     }
 
-    int countComponents(int n)
+    int countComponents()
     {
-        int ct = 0;
-        for(int i = 0; i < n; i++)
+        int ct = 0, i = 0;
+        for(auto e : parent)
         {
-            ct += (parent[i] == i);
+            ct += (e == i);
+            i++;
         }
         return ct;
     }
@@ -65,7 +65,7 @@ public:
             if(mydsu.inSameComponent(v[0], v[1])) spare++;
             else mydsu.Union(v[0], v[1]);
         }
-        int components = mydsu.countComponents(n);
+        int components = mydsu.countComponents();
         return ((spare >= (components - 1)) ? (components - 1) : -1);
     }
 };
