@@ -10,7 +10,6 @@ public:
         {
             int i1 = lower_bound(nums.begin(), nums.end(), lower - e) - nums.begin();
             int i2 = upper_bound(nums.begin(), nums.end(), upper - e) - nums.begin();
-            cout << i1 << " " << i2 << endl;
             if(i1 < n && i1 <= (i2 - 1))
             {
                 answer += (i2 - i1);
