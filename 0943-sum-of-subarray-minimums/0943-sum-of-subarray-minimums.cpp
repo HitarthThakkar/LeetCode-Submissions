@@ -5,7 +5,7 @@ public:
     {
         int n = arr.size();
         int m = 1000000007;
-        vector<int> pseq(n, -1), nseq(n, n);
+        vector<int> pseq(n, -1), nse(n, n); // NOT nseq and nse. {OP} [See WA submission before]
         stack<int> st;
 
         for(int i = n - 1; i >= 0; i--)
@@ -24,29 +24,24 @@ public:
         {
             while(!st.empty() && arr[st.top()] > arr[i])
             {
-                nseq[st.top()] = i;
+                nse[st.top()] = i;
                 st.pop();
             }
             st.push(i);
         }
-
-        // for(auto e : pseq) cout << e << " "; cout << endl;
-        // for(auto e : nseq) cout << e << " "; cout << endl;
 
         long long answer = 0;
 
         for(int i = 0; i < n; i++)
         {
             int l = pseq[i] + 1;
-            int r = nseq[i] - 1;
+            int r = nse[i] - 1;
 
             int left = i - l;
             int right = r - i;
 
             left %= m;
             right %= m;
-
-            // cout << left << " " << right << endl;
 
             int contribution = 0;
 
@@ -58,7 +53,6 @@ public:
                 contribution += (left * right);
             }
             
-            // cout << contribution << endl;
             contribution %= m;
             arr[i] %= m;
 
