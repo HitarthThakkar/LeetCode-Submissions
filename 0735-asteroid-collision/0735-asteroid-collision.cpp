@@ -4,24 +4,24 @@ public:
     vector<int> asteroidCollision(vector<int>& asteroids)
     {
         int n = asteroids.size();
-        stack<int> st;
+        vector<int> st;
 
         for(int i = 0; i < n; i++)
         {
             bool stays = true;
 
-            while(!st.empty() && (st.top() * asteroids[i] < 0) && (st.top() > 0))
+            while(!st.empty() && (st.back() * asteroids[i] < 0) && (st.back() > 0))
             {
-                int v1 = abs(st.top());
+                int v1 = abs(st.back());
                 int v2 = abs(asteroids[i]);
 
                 if(v1 < v2)
                 {
-                    st.pop();
+                    st.pop_back();
                 }
                 else if(v1 == v2)
                 {
-                    st.pop();
+                    st.pop_back();
                     stays = false;
                     break;
                 }
@@ -32,19 +32,9 @@ public:
                 }
             }
 
-            if(stays) st.push(asteroids[i]);
+            if(stays) st.push_back(asteroids[i]);
         }
 
-        vector<int> result;
-
-        while(!st.empty())
-        {
-            result.push_back(st.top());
-            st.pop();
-        }
-
-        reverse(result.begin(), result.end());
-
-        return result;
+        return st;
     }
 };
