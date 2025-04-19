@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2227-sum-of-subarray-ranges) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 ## Enumeration
 |  |
