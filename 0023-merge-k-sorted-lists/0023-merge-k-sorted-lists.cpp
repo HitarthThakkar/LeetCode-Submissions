@@ -1,23 +1,22 @@
+
 class Solution
 {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists)
     {
-        ListNode* answer = new ListNode(-1);
-        ListNode* running = answer;
-        while(true)
+        ListNode* result = new ListNode(-1);
+        ListNode* answer = result;
+        auto cmp = [](ListNode* a, ListNode* b) { return a->val > b->val; };
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
+        for(auto head : lists) if(head) pq.push(head);
+        while(!pq.empty())
         {
-            int i = 0, mind = -1, mini = 1e9;
-            for(auto &head : lists)
-            {
-                if(head != NULL && head->val < mini) mini = head->val, mind = i;
-                i++;
-            }
-            if(mind == -1) return answer->next;
-            running->next = lists[mind];
-            lists[mind] = lists[mind]->next;
-            running = running->next;
+            auto node = pq.top();
+            pq.pop();
+            if(node->next) pq.push(node->next);
+            result->next = node;
+            result = result->next;
         }
-        return answer;
+        return answer->next;
     }
 };
