@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2145-grid-game) |
 | [2169-simple-bank-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2169-simple-bank-system) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2227-sum-of-subarray-ranges) |
 | [2249-count-the-hidden-sequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2249-count-the-hidden-sequences) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2169-simple-bank-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1307,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2998-count-symmetric-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
