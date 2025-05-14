@@ -1040,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
