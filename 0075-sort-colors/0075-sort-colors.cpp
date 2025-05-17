@@ -6,7 +6,7 @@ public:
         // Dutch National Flag Algorithm
 
         /*
-                            -: RULES OF DOUBLE DUNGON (cartenon temple) V/S DUTCH DUNGEON (dnf algo) :-
+                            -: RULES OF DOUBLE DUNGEON (cartenon temple) V/S DUTCH DUNGEON (dnf algo) :-
             (1) Thou shall worship God.                                         i.e.; [0 to low - 1]      -> all zeros
             (2) Thou shall praise God.                                          i.e.; [low to mid - 1]    -> all ones
             (3) Thou shall prove thy faith.                                     i.e.; [mid to high]       -> Unsorted shit
@@ -60,7 +60,7 @@ public:
                 swap(nums[low], nums[mid]);
                 low++;
                 mid++;
-                // NOTE THAT [MID TO HIGH] PART WAS UNSORTED AND WE REDUCES THAT PART BY 1 LENGTH AND
+                // NOTE THAT [MID TO HIGH] PART WAS UNSORTED AND WE REDUCED THAT PART BY 1 LENGTH AND
                 // AND MADE IT [MID + 1 TO HIGH] BY INCREMENTING MID.
             }
             else if(nums[mid] == 1)
@@ -71,14 +71,14 @@ public:
                 // other rules are fine.
                 // mid++ will resolve this simply.
                 mid++;
-                // NOTE THAT [MID TO HIGH] PART WAS UNSORTED AND WE REDUCES THAT PART BY 1 LENGTH AND
+                // NOTE THAT [MID TO HIGH] PART WAS UNSORTED AND WE REDUCED THAT PART BY 1 LENGTH AND
                 // AND MADE IT [MID + 1 TO HIGH] BY INCREMENTING MID.
             }
             else
             {
                 // ARE THE RULES OF DUNGEON FOLLOWED?
                 // NO.
-                // at mid, there is 2, which should belong to (high + 1) inedx at minimum.
+                // at mid, there is 2, which should belong to (high + 1) index at minimum.
                 // high + 1 to end already contains all twos.
                 // we cannot do anything there.
                 // so push it at that high index and then do high--
@@ -101,5 +101,5 @@ public:
     // SO IN 'N' STEPS WE'LL REDUCE IT TO ZERO, AND HENCE SORT IT.
     // SO O(N) TIME COMPLEXITY.
     // SPACE COMPLEXITY IS VERY HIGH DUE TO THESE COMMENTS TAKING ATLEAST 10 TIMES OF THE SPACE OF SOLUTION.
-    // CHECK THE PREVIOUS CRISPY 3 LINE SOLUTION TO SEE THE GOOD SPACE COMPLEXITY.
+    // CHECK SOME PREVIOUS CRISPY-ASS 3 LINE SOLUTION TO SEE THE GOOD SPACE COMPLEXITY.
 };
