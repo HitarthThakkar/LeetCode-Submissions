@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
