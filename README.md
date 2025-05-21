@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0403-frog-jump) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0403-frog-jump) |
