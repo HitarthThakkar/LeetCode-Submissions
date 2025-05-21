@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0507-perfect-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0732-my-calendar-iii) |
