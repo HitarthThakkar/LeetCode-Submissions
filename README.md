@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
