@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
 ## Bit Manipulation
 |  |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
 ## Backtracking
 |  |
 | ------- |
