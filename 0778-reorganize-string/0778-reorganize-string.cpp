@@ -1,28 +1,25 @@
+#define paic pair<int, char>
 class Solution
 {
 public:
     string reorganizeString(string s)
     {
-        // 2025 Hiring Prep Sprint Q8 [Medium but got intuition way faster]
-        // imma lookup formal proof or similar approach-ness thing though
-        vector<int> f(26, 0); multimap<int, char> mp;
-        for(auto c : s) f[c - 'a']++;
-        for(int i = 0; i < 26; i++) if(f[i] > 0) mp.insert({f[i], i + 'a'});
-        auto it = --mp.end(); int dc = 0; int i = 0; int j = 1; string ans = s;
-        while(dc < s.length())
+        vector<int> mp(26, 0);
+        for(auto ch : s) mp[ch - 'a']++;
+        priority_queue<paic> pq;
+        for(int i = 0; i < 26; i++) if(mp[i] > 0) pq.push({mp[i], i + 'a'});
+        string res = "";
+        paic prev = {0, 'a'};
+        while(!pq.empty())
         {
-            char ch = it->second;
-            int f = it->first;
-            while(f--)
-            {
-                dc++;
-                if(i < s.length()) { ans[i] = ch; i += 2; }
-                else if(j < s.length()) { ans[j] = ch; j += 2; }
-                else return "";
-            }
-            it--;
+            int f = pq.top().first;
+            char ch = pq.top().second;
+            pq.pop();
+            f--;
+            res += ch;
+            if(prev.first > 0) pq.push(prev);
+            prev = {f, ch};
         }
-        for(int i = 1; i < s.length(); i++)
-            if(ans[i - 1] == ans[i]) return ""; return ans;
+        return (res.length() < s.length() ? "" : res);
     }
 };
