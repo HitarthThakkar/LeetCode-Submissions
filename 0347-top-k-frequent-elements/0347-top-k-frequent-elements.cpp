@@ -4,7 +4,7 @@ class Solution
 public:
     vector<int> topKFrequent(vector<int>& nums, int k)
     {
-        map<int, int> mp;
+        unordered_map<int, int> mp;
         for(auto e : nums) mp[e]++;
         priority_queue<pai, vector<pai>, greater<pai>> pq;
         while(k--)
