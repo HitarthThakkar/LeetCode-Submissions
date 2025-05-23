@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0991-array-of-doubled-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0991-array-of-doubled-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0991-array-of-doubled-pairs) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0778-reorganize-string) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
