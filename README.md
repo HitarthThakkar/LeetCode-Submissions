@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0721-accounts-merge) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0778-reorganize-string) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
