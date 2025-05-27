@@ -1,30 +1,33 @@
 class FreqStack
 {
 public:
-    /* This que has many approaches to learn from this is first of them. */
-    /*------ Approach 2 :- Priority queue -------*/
+    /* This que has many approaches to learn from this is THIRD of them. */
+    /*------ Approach 3 :- MOST OPTIMAL [OP] -------*/
 
-    // O(N + M) Space complexity for frequency map and pq
+    // O(N + M) Space complexity for frequency map and stack map
     unordered_map<int, int> freq;
-    priority_queue<tuple<int, int, int>> pq;
-    int timestamp = 0;
+    unordered_map<int, stack<int>> group;
+    // Group stores => {freq, all elements having that freq in LIFO manner}
+    int maxFreq = 0;
 
     FreqStack() {}
 
-    // O(logN) for push
+    // O(1) for push
     void push(int val)
     {
-        freq[val]++;
-        pq.push({freq[val], timestamp++, val});
-        // Sorts by most freq, then most timestamp and then value.
+        int f = ++freq[val];
+        maxFreq = max(maxFreq, f);
+        group[f].push(val);
     }    
 
-    // O(logN) for pop
+    // O(1) for pop
     int pop()
     {
-        auto [f, t, x] = pq.top();
-        pq.pop();
+        int x = group[maxFreq].top();
+        group[maxFreq].pop();
         freq[x]--;
+        if (group[maxFreq].empty())
+            maxFreq--;
         return x;
     }
 };
