@@ -933,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
 ## Breadth-First Search
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
 ## Binary Tree
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
