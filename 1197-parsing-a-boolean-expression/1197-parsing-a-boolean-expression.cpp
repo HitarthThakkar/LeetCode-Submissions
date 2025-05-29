@@ -3,74 +3,37 @@ class Solution
 public:
     bool parseBoolExpr(string expression)
     {
-        stack<char> s;
-        s.push('t');
-        s.push('&');
-        for(auto c : expression)
+        stack<char> st;
+
+        for (char c : expression)
         {
-            if(c == ',') continue;
-            else s.push(c);
+            if (c == ',' || c == '(') continue;
 
-            int t = 0;
-            int f = 0;
-            if(s.top() == ')')
+            if (c == ')')
             {
-                while(s.top() != '(')
-                {
-                    if(s.top() == 't') t++;
-                    else if(s.top() == 'f') f++;
-                    s.pop();
-                }
-                s.pop();
-                char op = s.top();
-                s.pop();
-                if(op == '!')
-                {
-                    if(t > 0) s.push('f');
-                    else s.push('t');
-                }
-                else if(op == '&')
-                {
-                    if(f > 0) s.push('f');
-                    else s.push('t');
-                }
-                else if(op == '|')
-                {
-                    if(t > 0) s.push('t');
-                    else s.push('f');
-                }
-            }
-        }
+                bool hasTrue = false, hasFalse = false;
 
-        while(s.size() > 1)
-        {
-            char a = s.top();
-            s.pop();
-            char op = s.top();
-            s.pop();
+                while (st.top() != '!' && st.top() != '&' && st.top() != '|')
+                {
+                    char topValue = st.top();
+                    st.pop();
+                    if (topValue == 't') hasTrue = true;
+                    if (topValue == 'f') hasFalse = true;
+                }
 
-            if(op == '!')
-            {
-                s.push((a == 't' ? 'f' : 't'));
+                char op = st.top();
+                st.pop();
+
+                if (op == '!') st.push(hasTrue ? 'f' : 't');
+                else if (op == '&') st.push(hasFalse ? 'f' : 't');
+                else st.push(hasTrue ? 't' : 'f');
             }
             else
             {
-                char b = s.top();
-                s.pop();
-
-                if(op == '&')
-                {
-                    if(a == b && a =='t') s.push('t');
-                    else s.push('f');
-                }
-                else if(op == '|')
-                {
-                    if(a == 't' || b == 't') s.push('t');
-                    else s.push('f');
-                }
+                st.push(c);
             }
         }
 
-        return (s.top() == 't' ? true : false);
+        return (st.top() == 't');
     }
 };
