@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0733-flood-fill) |
