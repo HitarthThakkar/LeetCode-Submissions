@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-diagonal-traverse-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1539-diagonal-traverse-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
 | [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
+| [1539-diagonal-traverse-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1539-diagonal-traverse-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1539-diagonal-traverse-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1539-diagonal-traverse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
