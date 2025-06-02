@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0790-global-and-local-inversions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0507-perfect-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
+| [0790-global-and-local-inversions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
