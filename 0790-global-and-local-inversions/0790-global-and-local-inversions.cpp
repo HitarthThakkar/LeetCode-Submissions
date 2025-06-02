@@ -3,16 +3,16 @@ class Solution
 public:
     bool isIdealPermutation(vector<int>& nums)
     {
-        int n = nums.size();
-        for(int i = 0; i < n; i++)
-        {
-            if(nums[i] - 1 > i) return false;
-            if(nums[i] == i + 1) {
-                if(i + 1 >= n) return false;
-                if(nums[i] - 1 != nums[i + 1]) return false;
-                i++;
-            }
-        }
+        /*
+            Huh ! Just a 3 line simple looking code ?
+            The question must be simple, right ?
+            THE QUESTION MUST BE SIMPLE, RIGHT ?
+            ****************** Trivial INFO ******************
+            There is atleast 2 hr of mental effort after this cute looking 3 line code.
+            {I swear its not cute, it have consumed my flesh, brother !}
+        */
+        for (int i = 0; i < nums.size(); i++)
+            if (abs(nums[i] - i) > 1) return false;
         return true;
     }
 };
