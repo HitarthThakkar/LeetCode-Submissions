@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0072-edit-distance) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0085-maximal-rectangle) |
@@ -1181,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0055-jump-game) |
