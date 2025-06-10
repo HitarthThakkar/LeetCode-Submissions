@@ -13,7 +13,7 @@ public:
     }
     int minExtraChar(string s, vector<string>& dictionary)
     {
-        set<string> dict;
+        unordered_set<string> dict;
         for(auto s : dictionary) dict.insert(s);
         int n = s.length();
         vector<vector<bool>> dp(n, vector<bool> (n, false));
