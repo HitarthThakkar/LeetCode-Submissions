@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Brainteaser
 |  |
 | ------- |
