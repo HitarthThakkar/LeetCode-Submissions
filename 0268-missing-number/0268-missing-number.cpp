@@ -3,9 +3,20 @@ class Solution
 public:
     int missingNumber(vector<int>& nums)
     {
-        int n = nums.size();
-        int sum = (n * (n + 1)) / 2;
-        for(int i = 0; i < n; i++) sum -= nums[i];
-        return sum;
+        // Swap sort / Cyclic sort ALGORITHM
+
+        // Credits :- 'Aditya Verma' and 'Code concepts with Animesh' [youtube]
+
+        int i = 0;
+        while(i < nums.size())
+        {
+            if(nums[i] < nums.size() && nums[i] != i) swap(nums[nums[i]], nums[i]);
+            else i++;
+        }
+        for(int i = 0; i < nums.size(); i++)
+        {
+            if(nums[i] != i) return i;
+        }
+        return nums.size();
     }
 };
