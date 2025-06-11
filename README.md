@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0312-burst-balloons) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
