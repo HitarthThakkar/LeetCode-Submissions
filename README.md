@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
