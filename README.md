@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [1962-single-threaded-cpu](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1539-diagonal-traverse-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1539-diagonal-traverse-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1962-single-threaded-cpu](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
+| [1962-single-threaded-cpu](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1962-single-threaded-cpu) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
