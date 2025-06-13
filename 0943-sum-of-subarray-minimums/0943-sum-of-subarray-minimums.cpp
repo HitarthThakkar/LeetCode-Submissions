@@ -22,7 +22,7 @@ public:
 
         for(int i = 0; i < n; i++)
         {
-            while(!st.empty() && arr[st.top()] > arr[i])
+            while(!st.empty() && arr[st.top()] > arr[i])    // We did NSE and not NSEQ.
             {
                 nse[st.top()] = i;
                 st.pop();
@@ -34,16 +34,16 @@ public:
 
         for(int i = 0; i < n; i++)
         {
-            int l = pseq[i] + 1;
-            int r = nse[i] - 1;
+            long long l = pseq[i] + 1;
+            long long r = nse[i] - 1;
 
-            int left = i - l;
-            int right = r - i;
+            long long left = i - l;
+            long long right = r - i;
 
-            left %= m;
-            right %= m;
+            // left %= m;
+            // right %= m;
 
-            int contribution = 0;
+            long long contribution = 0;
 
             if(left >= 0 && right >= 0)
             {
