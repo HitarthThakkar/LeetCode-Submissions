@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Number Theory
 |  |
 | ------- |
