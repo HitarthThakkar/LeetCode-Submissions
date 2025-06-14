@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2664-maximize-greatness-of-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
