@@ -1641,4 +1641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
