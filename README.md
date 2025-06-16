@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0461-hamming-distance) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1444,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
