@@ -1105,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Randomized
 |  |
 | ------- |
