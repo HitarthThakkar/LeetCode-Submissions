@@ -3,25 +3,21 @@ class Solution
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2)
     {
-        ListNode *dummy, *temp;
-        dummy = new ListNode();
-        temp = dummy;
-        while(list1 && list2)
+        if(list1 == NULL) return list2;
+        if(list2 == NULL) return list1;
+        if(list1->val > list2->val) std::swap(list1,list2);
+        ListNode* ans = list1;
+        while(list1 != NULL && list2 != NULL)
         {
-            if(list1->val < list2->val)
+            ListNode* tmp = NULL;
+            while(list1 != NULL && list1->val <= list2->val)
             {
-                temp->next = list1;
+                tmp = list1;
                 list1 = list1->next;
             }
-            else
-            {
-                temp->next = list2;
-                list2 = list2->next;
-            }
-            temp = temp->next;
+            tmp->next = list2;
+            std :: swap(list1,list2);
         }
-        if(list1) temp->next = list1;
-        if(list2) temp->next = list2;
-        return dummy->next;
+        return ans;
     }
 };
