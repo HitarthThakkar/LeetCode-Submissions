@@ -3,35 +3,45 @@ class Solution
 public:
     int maxSumDivThree(vector<int>& nums)
     {
-        int result = 0;
-        vector<int> one, two;
-        for(auto e : nums)
+        int result = accumulate(nums.begin(), nums.end(), 0);
+        if(result % 3 == 0) return result;
+
+        if(result % 3 == 1)
         {
-            if(e % 3 == 0) result += e;
-            else if(e % 3 == 1) one.push_back(e);
-            else two.push_back(e);
+            // minimum of these two options
+            // 1] minimum element having 1 as remainder
+            // 2] two smallest having 2 as remainder
+            int mini = INT_MAX;
+            for(auto e : nums) if(e % 3 == 1 && e < mini) mini = e;
+            priority_queue<int> pq;
+            for(auto e : nums)
+                { if(e % 3 == 2) pq.push(e); if(pq.size() > 2) pq.pop(); }
+            if(pq.size() < 2) return result - mini;
+            else {
+                int op1 = result - mini;
+                int op2 = result;
+                while(!pq.empty()) { op2 -= pq.top(); pq.pop(); }
+                return max(op1, op2);
+            }
         }
-        sort(one.begin(), one.end());
-        sort(two.begin(), two.end());
-        int onesum = accumulate(one.begin(), one.end(), 0);
-        int twosum = accumulate(two.begin(), two.end(), 0);
-        int os = one.size();
-        int ts = two.size();
-        int times = 3;
-        int tba = 0;
-        while(times--)
+        else
         {
-            int nta = os % 3;
-            int ntb = ts % 3;
-            int cur = onesum + twosum;
-            int i = 0;
-            while(nta--) cur -= one[i++];
-            i = 0;
-            while(ntb--) cur -= two[i++];
-            tba = max(tba, cur);
-            if(os > 0 && ts > 0) { os--; ts--; }
-            else break;
+            // minimum of these two options
+            // 1] minimum element having 2 as remainder
+            // 2] two smallest having 1 as remainder
+            int mini = INT_MAX;
+            for(auto e : nums) if(e % 3 == 2 && e < mini) mini = e;
+            priority_queue<int> pq;
+            for(auto e : nums)
+                { if(e % 3 == 1) pq.push(e); if(pq.size() > 2) pq.pop(); }
+            if(pq.size() < 2) return result - mini;
+            else {
+                int op1 = result - mini;
+                int op2 = result;
+                while(!pq.empty()) { op2 -= pq.top(); pq.pop(); }
+                return max(op1, op2);
+            }
         }
-        return (result + tba);
+        return -69872;
     }
 };
