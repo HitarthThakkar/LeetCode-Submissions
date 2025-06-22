@@ -1,16 +1,15 @@
 class Solution
 {
 public:
-    void recur(int ind, vector<int>& temp, vector<int>&nums, vector<vector<int>>& ans)
+    void recur(int i, vector<int> &temp, vector<int> &nums, vector<vector<int>> &ans)
     {
-        ans.push_back(temp);
-        for(int i = ind; i < nums.size(); i++)
-        {
-            if(i > ind && nums[i] == nums[i - 1]) continue;
-            temp.push_back(nums[i]);
-            recur(i + 1, temp, nums, ans);
-            temp.pop_back();
-        }
+        if(i >= nums.size()) { ans.push_back(temp); return; }
+        temp.push_back(nums[i]);
+        int del = 0;
+        while(i + del < nums.size() && nums[i + del] == nums[i]) del++;
+        recur(i + 1, temp, nums, ans);
+        temp.pop_back();
+        recur(i + del, temp, nums, ans);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums)
     {
