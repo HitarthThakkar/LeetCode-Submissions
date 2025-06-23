@@ -1075,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1637,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
