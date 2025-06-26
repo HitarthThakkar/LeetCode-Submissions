@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2509-minimize-xor) |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1370,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Queue
 |  |
 | ------- |
