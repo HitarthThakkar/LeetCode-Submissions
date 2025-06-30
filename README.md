@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0768-partition-labels) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
