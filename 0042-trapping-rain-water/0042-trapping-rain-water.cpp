@@ -4,18 +4,28 @@ public:
     int trap(vector<int>& height)
     {
         int n = height.size();
-        vector<int> rightmex(n, 0), leftmex(n, 0);
-        int mex = 0;
-        for(int i = n - 1; i >= 0; i--) {
-            rightmex[i] = mex; mex = max(mex, height[i]);
-        }
-        mex = 0;
-        for(int i = 0; i < n; i++) {
-            leftmex[i] = mex; mex = max(mex, height[i]);
-        }
+        int l = 0;
+        int r = n - 1;
+        int lmex = height[0];
+        int rmex = height[n - 1];
         int answer = 0;
-        for(int i = 0; i < n; i++)
-            answer += max(0, min(leftmex[i], rightmex[i]) - height[i]);
+
+        while(l <= r)
+        {
+            if(height[l] <= height[r])
+            {
+                answer += max(min(lmex, rmex) - height[l], 0);
+                l++;
+                if(l < n) lmex = max(lmex, height[l]);
+            }
+            else
+            {
+                answer += max(min(lmex, rmex) - height[r], 0);
+                r--;
+                if(r >= 0) rmex = max(rmex, height[r]);
+            }
+        }
+
         return answer;
     }
 };
