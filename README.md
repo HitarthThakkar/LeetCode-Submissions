@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
