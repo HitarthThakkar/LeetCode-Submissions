@@ -1224,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1073-number-of-enclaves) |
@@ -1403,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
