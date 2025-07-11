@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0372-super-pow) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1680,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0732-my-calendar-iii) |
@@ -1737,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
