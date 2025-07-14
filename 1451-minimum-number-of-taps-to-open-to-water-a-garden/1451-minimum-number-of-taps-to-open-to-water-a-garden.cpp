@@ -18,8 +18,6 @@ public:
         };
         sort(vp.begin(), vp.end(), cmp);
 
-        // for(auto p : vp) cout << p.first << " " << p.second << endl;
-
         int lastTakenIndex = 0;
         int taps = 1;
 
