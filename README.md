@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1311,11 +1312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0732-my-calendar-iii) |
@@ -1708,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
