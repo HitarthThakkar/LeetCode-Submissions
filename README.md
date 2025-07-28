@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2169-simple-bank-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2169-simple-bank-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1443,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1758,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2998-count-symmetric-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
