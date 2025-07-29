@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0461-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1388,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
@@ -1443,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1160-letter-tile-possibilities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1814,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Database
 |  |
