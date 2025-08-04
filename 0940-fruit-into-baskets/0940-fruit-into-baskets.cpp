@@ -5,7 +5,7 @@ public:
         unordered_map<int, int> m;
         while (right < fruits.size()) {
             m[fruits[right]]++;
-                            while (m.size() > 2) {
+                while (m.size() > 2) {
                     m[fruits[left]]--;
                     if (m[fruits[left]] == 0)
                         m.erase(fruits[left]);
