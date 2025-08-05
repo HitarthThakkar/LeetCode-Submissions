@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0732-my-calendar-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1727,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
