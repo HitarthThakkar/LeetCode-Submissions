@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
@@ -1377,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
@@ -1818,6 +1820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3201-distribute-candies-among-children-ii) |
