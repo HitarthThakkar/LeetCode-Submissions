@@ -22,7 +22,7 @@ public:
 class Solution
 {
 public:
-    void recur(Node* node, unordered_map<Node*, Node*> &m)
+    void recur(Node* node, map<Node*, Node*> &m)
     {
         Node* newNode = new Node(node->val);
         m[node] = newNode;
@@ -35,7 +35,7 @@ public:
 
     Node* cloneGraph(Node* node)
     {
-        unordered_map<Node*, Node*> m;
+        map<Node*, Node*> m;
         if(node) recur(node, m);
         else return NULL;
         return m[node];
