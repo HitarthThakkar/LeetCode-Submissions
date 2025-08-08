@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [0667-beautiful-arrangement-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0507-perfect-number) |
+| [0667-beautiful-arrangement-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [0790-global-and-local-inversions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0790-global-and-local-inversions) |
