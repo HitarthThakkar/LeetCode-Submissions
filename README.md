@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [0947-online-election](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0931-maximum-frequency-stack](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
+| [0947-online-election](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1307-ugly-number-iii) |
@@ -1766,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0947-online-election) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
