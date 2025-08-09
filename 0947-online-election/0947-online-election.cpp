@@ -1,28 +1,30 @@
 /*
-last one was good but this might be a strategic improvement
-[if u think clearly]
+more strategic improvement here kinda GOLDEN one.
 */
 
 class TopVotedCandidate {
+vector<int> leading;
+vector<int> times;
+
 public:
-    unordered_map<int, int> mpp;
-    vector<int> times;
+
     TopVotedCandidate(vector<int>& persons, vector<int>& times) {
-        int n = times.size(), lead = -1;
+        int n = times.size();
         this->times = times;
-
-        unordered_map<int, int> cnt;
-        for(int i = 0; i < n; i++){
-            cnt[persons[i]]++;
-            if(cnt[persons[i]] >= cnt[lead]){
-                lead = persons[i];
+        unordered_map<int, int> mpp;
+        int leader = -1, maxVotes = 0;
+        for (int i = 0; i < n; i++) {
+            int p = persons[i];
+            if (++mpp[p] >= maxVotes) {
+                leader = p;
+                maxVotes = mpp[p];
             }
-            mpp[times[i]] = lead;
+            leading.push_back(leader);
         }
-
     }
     
     int q(int t) {
-        return mpp[*--upper_bound(times.begin(), times.end(), t)];
+        int index = upper_bound(times.begin(), times.end(), t) - times.begin();
+        return leading[index-1];
     }
 };
