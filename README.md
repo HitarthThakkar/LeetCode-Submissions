@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0372-super-pow) |
@@ -1601,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
