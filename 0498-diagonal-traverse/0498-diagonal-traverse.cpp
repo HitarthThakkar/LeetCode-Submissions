@@ -6,49 +6,40 @@ public:
         int m = mat.size();
         int n = mat[0].size();
 
-        vector<int> result;
-        if(m == 1 || n == 1)
+        vector<int> v;
+        int i = 0, j = 0;
+        bool flag = true;
+
+        while(1)
         {
-            for(auto v: mat) for(auto e : v) result.push_back(e);
-            return result;
-        }
+            if(i == m - 1 && j == n) return v;
 
-        int times = m + n - 2;
-
-        int i1 = 0, j1 = 1;
-        int i2 = 1, j2 = 0;
-        bool dir = false;
-
-        result.push_back(mat[0][0]);
-
-        while(times--)
-        {
-
-            if(dir)
+            if(flag)
             {
-                int jj = j2;
-                for(int ii = i2; ii >= i1; ii--)
-                {
-                    result.push_back(mat[ii][jj]);
-                    jj++;
+                int ii = i, jj = j;
+
+                while(ii > -1 && jj < n && ii < m && jj > -1) {
+                    v.push_back(mat[ii][jj]);
+                    ii--, jj++;
                 }
             }
             else
             {
-                int jj = j1;
-                for(int ii = i1; ii <= i2; ii++)
-                {
-                    result.push_back(mat[ii][jj]);
-                    jj--;
+                int d1 = i;
+                int d2 = n - j - 1;
+
+                int ii = i - min(d1, d2), jj = j + min(d1, d2);
+
+                while(ii < m && jj > -1 && jj < n && ii > -1) {
+                    v.push_back(mat[ii][jj]);
+                    ii++, jj--;
                 }
             }
 
-            if(j1 == n - 1) i1++; else j1++;
-            if(i2 == m - 1) j2++; else i2++;
-
-            dir = !dir;
+            if(i == m - 1) j++; else i++;
+            flag = !flag;
         }
 
-        return result;
+        return v;
     }
 };
