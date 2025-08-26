@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1714-rearrange-spaces-between-words](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
