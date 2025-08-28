@@ -78,6 +78,8 @@ public:
 
             pq2.pop();
 
+            if(r == n - 1 && c == n - 1) return sf;
+
             if(sf == 0) break;
 
             for(int i = 0; i < 4; i++)
