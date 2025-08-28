@@ -1253,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -1315,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1702,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1740,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
