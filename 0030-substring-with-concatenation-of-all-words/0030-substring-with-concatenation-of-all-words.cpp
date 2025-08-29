@@ -8,8 +8,15 @@ public:
         int total_length = word_count * word_length;
         int string_length = s.length();
 
-        unordered_map<string, int> mp;
-        for(auto word : words) mp[word]++;
+        // new thing, C++17; gets rid of substr time complexity.
+        unordered_map<string_view, int> mp;
+
+        auto it = words.begin();
+        while(it != words.end())
+        {
+            mp[*it]++;
+            it++;
+        }
 
         vector<int> result;
 
@@ -17,11 +24,11 @@ public:
         {
             int current_matches = 0;
             int left = start, right = start;
-            unordered_map<string, int> mpp = mp;
+            unordered_map<string_view, int> mpp = mp;
 
             while((left <= string_length - total_length) && (right < string_length))
             {
-                string ss = s.substr(right, word_length);
+                string_view ss = string_view(s).substr(right, word_length);
 
                 if(mpp.find(ss) != mpp.end())
                 {
@@ -32,7 +39,7 @@ public:
 
                     if(right - left >= total_length)
                     {
-                        string sss = s.substr(left, word_length);
+                        string_view sss = string_view(s).substr(left, word_length);
                         left += word_length;
                         mpp[sss]++;
                         if(mpp[sss] > 0) current_matches--;
