@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0404-sum-of-left-leaves) |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
@@ -1435,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0313-super-ugly-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
@@ -1517,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1653,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
@@ -1691,6 +1697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0684-redundant-connection) |
@@ -1764,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
