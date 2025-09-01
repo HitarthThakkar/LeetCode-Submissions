@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2358-number-of-ways-to-split-array) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1260,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1526,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -1681,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2145-grid-game) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1718,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
@@ -1778,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
