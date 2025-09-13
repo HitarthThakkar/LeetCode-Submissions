@@ -1942,6 +1942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1625-group-sold-products-by-the-date) |
+| [1664-find-users-with-valid-e-mails](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1827-invalid-tweets) |
