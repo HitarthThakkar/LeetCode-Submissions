@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0390-elimination-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1651,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0390-elimination-game) |
 | [1197-parsing-a-boolean-expression](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
