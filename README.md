@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2358-number-of-ways-to-split-array) |
+| [2386-min-max-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2386-min-max-game) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2386-min-max-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2386-min-max-game) |
 | [2479-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
