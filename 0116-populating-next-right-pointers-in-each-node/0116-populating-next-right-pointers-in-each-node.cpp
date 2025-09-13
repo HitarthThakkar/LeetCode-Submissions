@@ -1,25 +1,19 @@
 class Solution
 {
 public:
+
+    void recur(Node* node)
+    {
+        if(!node || !node->left || !node->right) return;
+        if(node->left) node->left->next = node->right;
+        if(node->next) node->right->next = node->next->left;
+        if(node->left) recur(node->left);
+        if(node->right) recur(node->right);
+    }
+
     Node* connect(Node* root)
     {
-        queue<Node*> q;
-        if(root) q.push(root);
-
-        while(!q.empty()) {
-            int size = q.size();
-            Node* lastPopped = NULL;
-
-            while(size--) {
-                Node* curNode = q.front();
-                q.pop();
-                if(curNode->left != NULL) q.push(curNode->left);
-                if(curNode->right != NULL) q.push(curNode->right);
-                if(lastPopped != NULL) lastPopped->next = curNode;
-                lastPopped = curNode;
-            }
-        }
-
+        recur(root);
         return root;
     }
 };
