@@ -1,19 +1,25 @@
 class Solution
 {
 public:
-
-    void recur(Node* node)
+    Node* connect(Node* root)   // BEST SOLUTION
     {
-        if(!node || !node->left || !node->right) return;
-        if(node->left) node->left->next = node->right;
-        if(node->next) node->right->next = node->next->left;
-        if(node->left) recur(node->left);
-        if(node->right) recur(node->right);
-    }
+        auto head = root;
 
-    Node* connect(Node* root)
-    {
-        recur(root);
-        return root;
+        for(; root; root = root -> left)    // Top to bottom
+        {
+            // Left to right for each in top to bottom
+            for(auto cur = root; cur; cur = cur -> next)
+            {
+                if(cur -> left) {
+                    cur -> left -> next = cur -> right;
+                    if(cur -> next) cur -> right -> next = cur -> next -> left;
+                }
+                else {
+                    break;
+                }
+            }
+        }
+        
+        return head;
     }
 };
