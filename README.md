@@ -1934,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0584-find-customer-referee) |
