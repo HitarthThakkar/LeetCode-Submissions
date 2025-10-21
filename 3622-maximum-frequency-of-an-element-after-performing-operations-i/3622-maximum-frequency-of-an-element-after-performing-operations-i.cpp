@@ -3,12 +3,12 @@ class Solution
 public:
     int maxFrequency(vector<int>& nums, int k, int numOperations)
     {
-        map<long long, long long> diff;
-        unordered_map<long long, long long> freq;
+        map<int, int> diff;
+        unordered_map<int, int> freq;
 
-        set<long long> critical_points;
+        set<int> critical_points;
 
-        for(long long e : nums)
+        for(int e : nums)
         {
             critical_points.insert(e - k);
             critical_points.insert(e);
@@ -18,15 +18,15 @@ public:
             diff[e + k + 1]--;
         }
 
-        long long pfx = 0;
-        long long res = 1;
+        int pfx = 0;
+        int res = 1;
 
         for(auto i : critical_points)
         {
-            long long total_achievable = diff[i] + pfx;
+            int total_achievable = diff[i] + pfx;
             pfx += diff[i];
 
-            long long cost_incurred = total_achievable - freq[i];
+            int cost_incurred = total_achievable - freq[i];
 
             if(cost_incurred <= numOperations)
             {
