@@ -3,40 +3,38 @@ class Solution
 public:
     int maxFrequency(vector<int>& nums, int k, int numOperations)
     {
-        map<int, int> m;
-        unordered_map<int, int> mp;
+        map<long long, long long> diff;
+        unordered_map<long long, long long> freq;
 
-        int minm = 1e9, mex = -1;
+        set<long long> critical_points;
 
-        for(auto e : nums)
+        for(long long e : nums)
         {
-            minm = min(minm, e);
-            mex = max(mex, e);
-            mp[e]++;
-            m[e - k]++;
-            m[e + k + 1]--;
+            critical_points.insert(e - k);
+            critical_points.insert(e);
+            critical_points.insert(e + k + 1);
+            freq[e]++;
+            diff[e - k]++;
+            diff[e + k + 1]--;
         }
 
-        int mini = minm - k;
-        int maxi = mex + k;
-        int pfx = 0;
+        long long pfx = 0;
+        long long res = 1;
 
-        int res = 1;
-
-        for(int i = mini; i <= maxi; i++)
+        for(auto i : critical_points)
         {
-            int mc = m[i] + pfx;
-            pfx += m[i];
+            long long total_achievable = diff[i] + pfx;
+            pfx += diff[i];
 
-            int cost = mc - mp[i];
+            long long cost_incurred = total_achievable - freq[i];
 
-            if(cost <= numOperations)
+            if(cost_incurred <= numOperations)
             {
-                res = max(res, mc);
+                res = max(res, total_achievable);
             }
             else
             {
-                res = max(res, mc - (cost - numOperations));
+                res = max(res, numOperations + freq[i]);
             }
         }
 
