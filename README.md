@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2227-sum-of-subarray-ranges) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -1725,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
