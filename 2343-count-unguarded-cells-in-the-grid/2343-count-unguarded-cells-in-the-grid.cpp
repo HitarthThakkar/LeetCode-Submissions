@@ -1,65 +1,73 @@
 class Solution
 {
 public:
-
-    void dfs(int sx, int sy, int m, int n, vector<vector<int>> &vis)
-    {
-        for(int i = sx + 1; i < m; i++)
-        {
-            if(vis[i][sy] == -1 || vis[i][sy] == 2) break;
-            else vis[i][sy] = 1;
-        }
-
-        for(int i = sx - 1; i >= 0; i--)
-        {
-            if(vis[i][sy] == -1 || vis[i][sy] == 2) break;
-            else vis[i][sy] = 1;
-        }
-
-        for(int j = sy - 1; j >= 0; j--)
-        {
-            if(vis[sx][j] == -1 || vis[sx][j] == 2) break;
-            else vis[sx][j] = 1;
-        }
-
-        for(int j = sy + 1; j < n; j++)
-        {
-            if(vis[sx][j] == -1 || vis[sx][j] == 2) break;
-            else vis[sx][j] = 1;
-        }
-    }
-
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls)
     {
-        vector<vector<int>> vis(m, vector<int> (n, 0));
-
-        for(auto e : guards) vis[e[0]][e[1]] = 2;
-        for(auto e : walls) vis[e[0]][e[1]] = -1;
-
-        for(int i = 0; i < m; i++)
+        vector<vector<int>> grid(m, vector<int>(n, 0));
+        
+        // Mark guards and walls
+        for (auto& g : guards) grid[g[0]][g[1]] = 2;
+        for (auto& w : walls) grid[w[0]][w[1]] = -1;
+        
+        // Process each direction separately
+        // Right direction
+        for (int i = 0; i < m; i++)
         {
-            for(int j = 0; j < n; j++)
+            bool guarded = false;
+            for (int j = 0; j < n; j++)
             {
-                if(vis[i][j] == 2)
-                {
-                    dfs(i, j, m, n, vis);
-                }
+                if (grid[i][j] == 2) guarded = true;
+                else if (grid[i][j] == -1) guarded = false;
+                else if (guarded && grid[i][j] == 0) grid[i][j] = 1;
+            }
+        }
+        
+        // Left direction
+        for (int i = 0; i < m; i++)
+        {
+            bool guarded = false;
+            for (int j = n - 1; j >= 0; j--)
+            {
+                if (grid[i][j] == 2) guarded = true;
+                else if (grid[i][j] == -1) guarded = false;
+                else if (guarded && grid[i][j] == 0) grid[i][j] = 1;
+            }
+        }
+        
+        // Down direction
+        for (int j = 0; j < n; j++)
+        {
+            bool guarded = false;
+            for (int i = 0; i < m; i++)
+            {
+                if (grid[i][j] == 2) guarded = true;
+                else if (grid[i][j] == -1) guarded = false;
+                else if (guarded && grid[i][j] == 0) grid[i][j] = 1;
+            }
+        }
+        
+        // Up direction
+        for (int j = 0; j < n; j++)
+        {
+            bool guarded = false;
+            for (int i = m - 1; i >= 0; i--)
+            {
+                if (grid[i][j] == 2) guarded = true;
+                else if (grid[i][j] == -1) guarded = false;
+                else if (guarded && grid[i][j] == 0) grid[i][j] = 1;
+            }
+        }
+        
+        // Count unguarded cells
+        int count = 0;
+        for (int i = 0; i < m; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                if (grid[i][j] == 0) count++;
             }
         }
 
-        int unocc = 0;
-
-        for(int i = 0; i < m; i++)
-        {
-            for(int j = 0; j < n; j++)
-            {
-                if(vis[i][j] == 0)
-                {
-                    unocc++;
-                }
-            }
-        }
-
-        return unocc;
+        return count;
     }
 };
