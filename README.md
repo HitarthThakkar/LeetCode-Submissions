@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1925-count-square-sum-triples](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
@@ -1928,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
