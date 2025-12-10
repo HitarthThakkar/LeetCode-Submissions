@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3583-count-special-triplets) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1719,6 +1721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -1970,6 +1973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
