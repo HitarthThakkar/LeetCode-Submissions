@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3771-total-score-of-dungeon-runs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Hash Table
 |  |
 | ------- |
