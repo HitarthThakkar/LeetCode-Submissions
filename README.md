@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3771-total-score-of-dungeon-runs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3771-total-score-of-dungeon-runs) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Hash Table
 |  |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Number Theory
 |  |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3863-power-grid-maintenance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
