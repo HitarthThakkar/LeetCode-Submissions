@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3771-total-score-of-dungeon-runs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3817-maximum-containers-on-a-ship) |
 ## Binary Search
 |  |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
