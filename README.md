@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3606-coupon-code-validator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3583-count-special-triplets) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3606-coupon-code-validator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3583-count-special-triplets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3583-count-special-triplets) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3606-coupon-code-validator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
