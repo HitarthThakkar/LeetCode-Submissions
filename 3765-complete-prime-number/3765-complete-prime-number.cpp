@@ -3,7 +3,6 @@ public:
 
     bool isPrime(long long int n)
     {
-        cout << n << endl;
         if(n == 1) return false;
         for(int i = 2; i < n; i++)
             {
