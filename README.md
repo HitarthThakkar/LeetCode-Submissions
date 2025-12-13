@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3771-total-score-of-dungeon-runs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3790-fruits-into-baskets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
