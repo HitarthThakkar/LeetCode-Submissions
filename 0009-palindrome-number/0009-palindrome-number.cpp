@@ -1,37 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        if(x < 0) return false;
 
-        if(x < 0)
-        {
-            return false;
+        int xcp = x;
+        vector<int> v;
+        while(xcp != 0) {
+            v.push_back(xcp % 10);
+            xcp /= 10;
         }
-        
-        int n = x;
-        
-        int arr[11];
-        int i = 10;
-        while(n != 0)
-        {
-            arr[i] = n % 10;
-            n /= 10;
-            i--;
-        }
-        i++;
 
-        long long int k = 0;
+        long long int revx = 0;
         long long int mul = 1;
-        for(int j = i; j < 11; j++)
-        {
-            k += (arr[j] * mul);
+        for(int j = v.size() - 1; j >= 0; j--) {
+            revx += (v[j] * mul);
             mul *= 10;
         }
 
-        if(x == k)
-        {
-            return true;
-        }
-
-        return false;
+        return (x == revx);
     }
 };
