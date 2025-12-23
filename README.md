@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2047-find-a-peak-element-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1962-single-threaded-cpu) |
+| [2054-two-best-non-overlapping-events](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
@@ -1594,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
