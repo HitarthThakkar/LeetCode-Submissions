@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
