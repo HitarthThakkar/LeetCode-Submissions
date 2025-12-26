@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2358-number-of-ways-to-split-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3427-special-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3427-special-array-ii) |
