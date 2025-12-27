@@ -1,53 +1,51 @@
+#define pai pair<long long int, int>
+
 class Solution
 {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings)
     {
-        sort(meetings.begin(), meetings.end());
-        priority_queue<pair<long long,int>, vector<pair<long long,int>>, greater<pair<long long,int>>> pq;
-        set<int> unocc;
-        for(int i = 0; i < n; i++) unocc.insert(i);
-        vector<long long> cnt(n, 0);
+        sort(meetings.begin(), meetings.end()); // ESSENTIAL
 
-        for(auto m : meetings)
+        vector<int> freq(n, 0);
+        priority_queue<int, vector<int>, greater<int>> available; // {index}
+        priority_queue<pai, vector<pai>, greater<pai>> ongoing; // {ending_time, index}
+
+        for(int i = 0; i < n; i++) available.push(i);
+
+        for(int i = 0; i < meetings.size(); i++)
         {
-            while(pq.size() > 0 && pq.top().first <= m[0])
+            // empty out ongoing meeting rooms if ending at time <= meetings[i][0]
+            while(!ongoing.empty() && ongoing.top().first <= meetings[i][0])
             {
-                unocc.insert(pq.top().second);
-                pq.pop();
+                available.push(ongoing.top().second);
+                ongoing.pop();
             }
 
-            if(unocc.size() > 0)
+            // check whether available queue has something
+            // if yes pop first one and push into ongoing correctly
+            // if not then pop one from ongoing and do the same
+            int meeting_duration = meetings[i][1] - meetings[i][0];
+
+            if(available.empty())
             {
-                int cri = *unocc.begin();   // Chosen Room Index
-                unocc.erase(unocc.begin());
-                pq.push({m[1], cri});
-                cnt[cri]++;
+                long long int time = ongoing.top().first;
+                int index = ongoing.top().second;
+                ongoing.pop();
+                freq[index]++;
+                ongoing.push({1LL * (time + 0LL + meeting_duration), index});
             }
             else
             {
-                long long startTime = max(pq.top().first, 1LL * m[0]);
-                int roomIndex = pq.top().second;
-                long long duration = m[1] - m[0];
-
-                pq.pop();
-                cnt[roomIndex]++;
-                pq.push({startTime + duration, roomIndex});
+                int index = available.top();
+                available.pop();
+                freq[index]++;
+                ongoing.push({1LL * (meetings[i][0] + 0LL + meeting_duration), index});
             }
         }
 
-        int prevmex = -1;
-        int prevmexind = -1;
-
-        for(int i = 0; i < n; i++)
-        {
-            if(cnt[i] > prevmex)
-            {
-                prevmex = cnt[i];
-                prevmexind = i;
-            }
-        }
-
-        return prevmexind;
+        int mex = *max_element(freq.begin(), freq.end());
+        for(int i = 0; i < n; i++) if(freq[i] == mex) return i;
+        return -1;
     }
 };
