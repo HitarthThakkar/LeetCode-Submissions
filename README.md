@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2386-min-max-game) |
+| [2402-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2402-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2402-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2161-stock-price-fluctuation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2402-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2479-meeting-rooms-iii) |
@@ -1128,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2386-min-max-game) |
+| [2402-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
