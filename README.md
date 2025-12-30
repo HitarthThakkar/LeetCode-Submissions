@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0890-lemonade-change) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [0790-global-and-local-inversions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
@@ -1814,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
+| [0840-magic-squares-in-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
