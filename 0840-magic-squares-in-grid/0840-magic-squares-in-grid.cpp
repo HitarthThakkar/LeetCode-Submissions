@@ -3,9 +3,13 @@ class Solution
 public:
     bool isMagicSquare(int si, int sj, vector<vector<int>> &grid)
     {
-        set<int> s;
-
         if(grid[si + 1][sj + 1] != 5) return false;
+        if(grid[si][sj] & 1) return false;
+        if(grid[si + 2][sj + 2] & 1) return false;
+        if(grid[si + 2][sj] & 1) return false;
+        if(grid[si][sj + 2] & 1) return false;
+
+        set<int> s;
 
         // UNIQUE NUMBERS CHECK
         for(int i = 0; i < 3; i++) for(int j = 0; j < 3; j++) s.insert(grid[si + i][sj + j]);
