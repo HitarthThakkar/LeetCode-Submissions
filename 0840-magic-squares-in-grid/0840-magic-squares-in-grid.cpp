@@ -5,6 +5,8 @@ public:
     {
         set<int> s;
 
+        if(grid[si + 1][sj + 1] != 5) return false;
+
         // UNIQUE NUMBERS CHECK
         for(int i = 0; i < 3; i++) for(int j = 0; j < 3; j++) s.insert(grid[si + i][sj + j]);
         if(s.size() != 9) return false;
