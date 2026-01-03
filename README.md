@@ -1603,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
