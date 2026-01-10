@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0778-reorganize-string) |
@@ -1608,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
