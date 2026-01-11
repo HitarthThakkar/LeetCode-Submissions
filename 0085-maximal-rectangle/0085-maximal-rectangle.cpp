@@ -1,20 +1,20 @@
 class Solution
 {
-private:
-    int largestRectangleArea(vector<int>& heights)
-    {
-        int n = heights.size();
+public:
 
-        vector<int> pse(n, -1), nse(n, n);
+    int largestRectangleInHistogram(vector<int> &histo)
+    {
+        int n = histo.size();
+
+        vector<int> nse(n, n);
+        vector<int> pse(n, -1);
+
         stack<int> st;
 
         for(int i = n - 1; i >= 0; i--)
         {
-            while(!st.empty() && heights[st.top()] > heights[i])
-            {
-                pse[st.top()] = i;
-                st.pop();
-            }
+            while(!st.empty() && histo[st.top()] >= histo[i]) st.pop();
+            if(!st.empty()) nse[i] = st.top();
             st.push(i);
         }
 
@@ -22,55 +22,42 @@ private:
 
         for(int i = 0; i < n; i++)
         {
-            while(!st.empty() && heights[st.top()] > heights[i])
-            {
-                nse[st.top()] = i;
-                st.pop();
-            }
+            while(!st.empty() && histo[st.top()] >= histo[i]) st.pop();
+            if(!st.empty()) pse[i] = st.top();
             st.push(i);
         }
 
-        int answer = 0;
+        int res = 0;
 
         for(int i = 0; i < n; i++)
         {
-            int l = pse[i] + 1;
-            int r = nse[i] - 1;
-            answer = max(answer, ((r - l + 1) * heights[i]));
+            int length = nse[i] - pse[i] - 1;
+            int cur = histo[i] * (length);
+            res = max(res, cur);
         }
 
-        return answer;
+        return res;
     }
-public:
+
     int maximalRectangle(vector<vector<char>>& matrix)
     {
         int m = matrix.size();
         int n = matrix[0].size();
 
-        vector<vector<int>> mat(m, vector<int> (n));
+        vector<int> histo(n, 0);
+        int res = 0;
 
-        for(int i = 0; i < m; i++)
+        for(int level = 0; level < m; level++)
         {
-            for(int j = 0; j < n; j++)
+            for(int i = 0; i < n; i++)
             {
-                if(matrix[i][j] == '1') mat[i][j] = 1;
-                else mat[i][j] = 0;
+                if(matrix[level][i] == '0') histo[i] = 0;
+                else histo[i]++;
             }
+
+            res = max(res, largestRectangleInHistogram(histo));
         }
 
-        int answer = 0;
-
-        for(int i = 0; i < m; i++)
-        {
-            vector<int> ground;
-            for(int j = 0; j < n; j++)
-            {
-                if(i > 0 && mat[i][j] != 0) mat[i][j] += mat[i - 1][j];
-                ground.push_back(mat[i][j]);
-            }
-            answer = max(answer, largestRectangleArea(ground));
-        }
-
-        return answer;
+        return res;
     }
 };
