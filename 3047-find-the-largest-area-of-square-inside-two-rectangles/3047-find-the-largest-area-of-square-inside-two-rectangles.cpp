@@ -13,13 +13,11 @@ public:
                 int bljy = bottomLeft[j][1];
                 int trjx = topRight[j][0];
                 int trjy = topRight[j][1];
-                if ((bljx < trix)) {
-                    if ((blix < trjx) && (bliy < trjy) && (bljy < triy)) {
-                        int len = min(trix, trjx) - max(blix, bljx);
-                        int brth = min(triy, trjy) - max(bliy, bljy);
-                        long long sz = min(len, brth);
-                        mexsz = max(mexsz, sz * sz);
-                    }
+                if ((bljx < trix) && (blix < trjx) && (bliy < trjy) && (bljy < triy)) {
+                    int len = min(trix, trjx) - max(blix, bljx);
+                    int brth = min(triy, trjy) - max(bliy, bljy);
+                    long long sz = min(len, brth);
+                    mexsz = max(mexsz, sz * sz);
                 }
             }
         }
