@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1677,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3640-trionic-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-trionic-array-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
