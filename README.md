@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
