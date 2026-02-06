@@ -3,16 +3,26 @@ class Solution
 public:
     int minRemoval(vector<int>& nums, int k)
     {
+        int n = nums.size();
         sort(nums.begin(), nums.end());
         int res = 0;
 
-        for(int i = 0; i < nums.size(); i++)
+        int l = 0;
+        int r = 0;
+
+        while(r < n)
         {
-            int ii = upper_bound(nums.begin(), nums.end(), nums[i] * 1LL * k) - nums.begin();
-            ii--;
-            res = max(res, ii - i + 1);
+            if(nums[r] <= nums[l] * 1LL * k)
+            {
+                res = max(res, r - l + 1);
+                r++;
+            }
+            else
+            {
+                l++;
+            }
         }
 
-        return (nums.size() - res);
+        return (n - res);
     }
 };
