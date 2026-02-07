@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1287,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1660,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
