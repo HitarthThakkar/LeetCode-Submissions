@@ -1157,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3863-power-grid-maintenance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3863-power-grid-maintenance) |
 ## Simulation
@@ -1965,6 +1966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union Find
 |  |
 | ------- |
@@ -2179,4 +2181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0284-peeking-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
