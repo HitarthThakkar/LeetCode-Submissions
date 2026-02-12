@@ -11,7 +11,7 @@ public:
             if(n - i < res) break;
 
             vector<int> v(26, 0);
-            vector<int> freq(1001, 0);
+            vector<int> freq(n + 1, 0);
             int ndc = 0;
 
             for(int j = i; j < n; j++)
