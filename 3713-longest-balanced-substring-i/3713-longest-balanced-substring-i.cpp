@@ -9,15 +9,20 @@ public:
         for(int i = 0; i < n; i++)
         {
             if(n - i < res) break;
-            map<char, int> m;
+
+            vector<int> v(26, 0);
+            vector<int> freq(1001, 0);
+            int ndc = 0;
 
             for(int j = i; j < n; j++)
             {
-                m[s[j]]++;
+                int prevFreq = v[s[j] - 'a'];
+                if(prevFreq == 0) ndc++;
+                freq[prevFreq]--;
+                v[s[j] - 'a']++;
+                freq[prevFreq + 1]++;
 
-                set<int> s;
-                for(auto e : m) { if(s.size() > 1) break; s.insert(e.second); }
-                if(s.size() == 1) res = max(res, j - i + 1);
+                if(freq[prevFreq + 1] == ndc) res = max(res, j - i + 1);
             }
         }
 
