@@ -1661,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
+| [0799-champagne-tower](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
