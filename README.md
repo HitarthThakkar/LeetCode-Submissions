@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0079-word-search) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0136-single-number) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0204-count-primes) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
