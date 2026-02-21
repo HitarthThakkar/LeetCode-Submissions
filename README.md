@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0461-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0670-maximum-swap) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0840-magic-squares-in-grid) |
