@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-rank-teams-by-votes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0868-binary-gap) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2048-build-array-from-permutation) |
