@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1502-construct-k-palindrome-strings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
