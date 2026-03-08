@@ -1,29 +1,20 @@
 class Solution
 {
 public:
+
+    int recur(int i, bool prev, vector<int> &nums, vector<vector<int>> &dp)
+    {
+        if(i >= nums.size()) return 0;
+        if(dp[i][prev] != -1) return dp[i][prev];
+        int p1 = 0, p2 = 0;
+        if(!prev) p1 = nums[i] + recur(i + 1, true, nums, dp);
+        p2 = recur(i + 1, false, nums, dp);
+        return dp[i][prev] = max(p1, p2);
+    }
+
     int rob(vector<int>& nums)
     {
-
-        if(nums.size() == 1)
-        {
-            return nums[0];
-        }
-
-        int prev2 = nums[0];
-        int prev = max(nums[1], prev2);
-
-        for(int i = 2; i <= nums.size() - 1; i++)
-        {
-            int lr = nums[i] + prev2;
-            int rr = prev;
-            int cur_i = max(lr, rr);
-
-            cout << cur_i << " ";
-
-            prev2 = prev;
-            prev = cur_i;
-        }
-
-        return prev;
+        vector<vector<int>> dp(nums.size(), vector<int> (2, -1));
+        return recur(0, false, nums, dp);
     }
 };
