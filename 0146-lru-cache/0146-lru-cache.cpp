@@ -2,8 +2,6 @@ class LRUCache
 {
 public:
 
-    // 2025 Hiring Prep Sprint Week_2 Q4
-
     class Node
     {
     public:
@@ -22,7 +20,7 @@ public:
     Node* tail = new Node(-1, -1);
 
     int cap;
-    unordered_map<int, Node*> mp;
+    map<int, Node*> m;
 
     LRUCache(int capacity)
     {
@@ -33,11 +31,13 @@ public:
 
     void insertNode(Node* newNode)
     {
-        Node* temp = head->next;
-        newNode->next = temp;
-        newNode->prev = head;
-        head->next = newNode;
-        temp->prev = newNode;
+        Node* secLast = tail->prev;
+        Node* last = tail;
+
+        secLast->next = newNode;
+        last->prev = newNode;
+        newNode->next = last;
+        newNode->prev = secLast;
     }
 
     void deleteNode(Node* tbDel)
@@ -46,44 +46,50 @@ public:
         Node* right = tbDel->next;
         left->next = right;
         right->prev = left;
+        delete(tbDel);
     }
 
     int get(int _key)
     {
-        if(mp.find(_key) != mp.end())
+        if(m.find(_key) != m.end())
         {
-            Node* resNode = mp[_key];
-            int res = resNode->val;
-            mp.erase(_key);
-            deleteNode(resNode);
-            insertNode(resNode);
-            mp[_key] = head->next;
-            return res;
+            Node* tbDel = m[_key];
+            int val = tbDel->val;
+            Node* newNode = new Node(_key, val);
+            deleteNode(tbDel);
+            insertNode(newNode);
+            m[_key] = newNode;
+            // cout << val << endl;
+            return val;
         }
         else
         {
+            // cout << -1 << endl;
             return -1;
         }
     }
     
     void put(int _key, int value)
     {
-        // 2 cases of Deletion
-        // EITHER 1) {key,val} exists and we have to change val
-        // OR     2) capacity reached
-        if(mp.find(_key) != mp.end())
+        // 2 cases of deletion.
+        // 1) value already exists and we want to do a value update
+        // 2) capacity reached
+
+        if(m.find(_key) != m.end())
         {
-            Node* existingNode = mp[_key];
-            mp.erase(_key);
-            deleteNode(existingNode);
+            Node* node = m[_key];
+            deleteNode(node);
         }
-        else if(mp.size() == cap)
+        else if(m.size() == cap)
         {
-            mp.erase(tail->prev->key);
-            deleteNode(tail->prev);
+            m.erase(head->next->key);
+            deleteNode(head->next);
         }
 
-        insertNode(new Node(_key, value));
-        mp[_key] = head->next;
+        Node* node = new Node(_key, value);
+        insertNode(node);
+        m[_key] = node;
+
+        // cout << _key << " " << value << endl;
     }
 };
