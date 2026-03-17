@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0991-array-of-doubled-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0732-my-calendar-iii) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1206-corporate-flight-bookings) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [0947-online-election](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0947-online-election) |
+| [1004-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
