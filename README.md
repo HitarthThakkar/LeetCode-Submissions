@@ -1490,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1562,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -2238,5 +2241,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
