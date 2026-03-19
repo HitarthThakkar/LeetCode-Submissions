@@ -3,16 +3,34 @@ class Solution
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k)
     {
-        vector<int> answer;
-        int n = nums.size();
-        deque<int> q;
-        for(int i = 0; i < n; i++)
+        vector<int> res;
+
+        // Monotonic Deque - (stack + queue in one ahh problem)
+        deque<int> dq;
+
+        for(int i = 0; i < k; i++)
         {
-            if(!q.empty() && q.front() < i - k + 1) q.pop_front();
-            while(!q.empty() && nums[q.back()] < nums[i]) q.pop_back();
-            q.push_back(i);
-            if(i >= k - 1) answer.push_back(nums[q.front()]);
+            // Cleaning 'trash'
+            while(dq.size() > 0 && nums[dq.back()] <= nums[i]) dq.pop_back();
+
+            dq.push_back(i);
         }
-        return answer;
+
+        // Monotonic (first == biggest)
+        res.push_back(nums[dq.front()]);
+
+        for(int i = k; i < nums.size(); i++)
+        {
+            int lvi = i - k + 1;    // Least Valid Index, does window things
+            while(!dq.empty() && dq.front() < lvi) dq.pop_front();
+
+            // Cleaning 'trash'
+            while(dq.size() > 0 && nums[dq.back()] < nums[i]) dq.pop_back();
+            dq.push_back(i);
+
+            res.push_back(nums[dq.front()]);    // Monotonic (first == biggest)
+        }
+
+        return res;
     }
 };
