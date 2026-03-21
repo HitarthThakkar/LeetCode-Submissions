@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-zero-array-transformation-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Stack
@@ -1970,6 +1972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph
