@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
+| [2906-construct-product-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2906-construct-product-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3427-special-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1974,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
