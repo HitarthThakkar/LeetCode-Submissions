@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2551-apply-operations-to-an-array) |
+| [2573-find-the-string-with-lcp](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2664-maximize-greatness-of-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1747,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1973,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -2256,4 +2261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
