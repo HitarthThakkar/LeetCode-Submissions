@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
