@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
+| [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [1014-k-closest-points-to-origin](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1307-ugly-number-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1307-ugly-number-iii) |
@@ -1743,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1830,6 +1832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -2105,6 +2108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [1558-course-schedule-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -2277,6 +2281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Iterator
 |  |
@@ -2287,6 +2292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0207-course-schedule) |
+| [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
