@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3809-properties-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
