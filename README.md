@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -1350,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0503-next-greater-element-ii) |
@@ -1950,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
