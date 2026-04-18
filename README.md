@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0507-perfect-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0507-perfect-number) |
 | [0667-beautiful-arrangement-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -1737,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
@@ -1838,6 +1841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2254,6 +2258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Database
@@ -2288,6 +2293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Iterator
