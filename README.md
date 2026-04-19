@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1448-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1776,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1510-stone-game-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1559-cherry-pickup-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -2303,6 +2305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Iterator
 |  |
