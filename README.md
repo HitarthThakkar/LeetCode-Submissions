@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1206-corporate-flight-bookings) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1184-car-pooling](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1206-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
 | [1014-k-closest-points-to-origin](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1307-ugly-number-iii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1307-ugly-number-iii) |
 | [1390-four-divisors](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1390-four-divisors) |
@@ -1765,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -2298,6 +2302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0464-can-i-win) |
 | [0913-cat-and-mouse](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/0913-cat-and-mouse) |
+| [1140-stone-game-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Iterator
 |  |
