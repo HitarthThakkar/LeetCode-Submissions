@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1821,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3640-trionic-array-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-trionic-array-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3795-zero-array-transformation-iv](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3795-zero-array-transformation-iv) |
@@ -2053,6 +2055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph
