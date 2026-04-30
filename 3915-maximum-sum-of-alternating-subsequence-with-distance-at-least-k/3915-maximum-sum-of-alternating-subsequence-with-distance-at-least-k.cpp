@@ -1,75 +1,73 @@
-class Solution
-{
-public:
+class SegTree {
+    int n;
+    vector<long long> tree;
 
-    vector<long long> segUp = vector<long long>(4 * 100010, 0);
-    vector<long long> segDown = vector<long long>(4 * 100010, 0);
-
-    void update(int index, int l, int r, vector<long long>& tree, long long pos, long long val)
-    {
-        if(index >= tree.size()) return;
-        if(pos < l || pos > r) return;
-        if(l == r) {
-            tree[index] = max(tree[index], val);
+    void update(int node, int l, int r, int pos, long long val) {
+        if (l == r) {
+            tree[node] = max(tree[node], val);
             return;
         }
-        int mid = (l + r) / 2;
-        update(index*2, l, mid, tree, pos, val);
-        update(index*2+1, mid+1, r, tree, pos, val);
-        long long left = (2*index < tree.size()) ? tree[2*index] : -1;
-        long long right = (2*index+1 < tree.size()) ? tree[2*index+1] : -1;
-        tree[index] = max(left, right);
-        // tree[index] = max(tree[2*index], tree[2*index+1]);
+        int mid = (l + r) >> 1;
+        if (pos <= mid) update(node << 1, l, mid, pos, val);
+        else update(node << 1 | 1, mid + 1, r, pos, val);
+
+        tree[node] = max(tree[node << 1], tree[node << 1 | 1]);
     }
 
-    long long query(int index, int l, int r, vector<long long> &tree, int lq, int rq)
-    {
-        if(index >= tree.size()) return -1;
-        if(l > r) return -1;
-        if(l > rq || lq > r) return -1;
-        if(lq <= l && r <= rq)
-        {
-            return tree[index];
-        }
-        int mid = (l + r) / 2;
-        return (max(query(index*2, l, mid, tree, lq, rq), query(index*2+1, mid+1, r, tree, lq, rq)));
+    long long query(int node, int l, int r, int ql, int qr) {
+        if (qr < l || r < ql) return 0;   // 0 is neutral because nums[i] >= 1
+        if (ql <= l && r <= qr) return tree[node];
+
+        int mid = (l + r) >> 1;
+        return max(query(node << 1, l, mid, ql, qr),
+                   query(node << 1 | 1, mid + 1, r, ql, qr));
     }
 
-    long long maxAlternatingSum(vector<int>& nums, int k)
-    {
+public:
+    SegTree(int n) : n(n), tree(4 * n + 5, 0) {}
+
+    void update(int pos, long long val) {
+        update(1, 1, n, pos, val);
+    }
+
+    long long query(int l, int r) {
+        if (l > r) return 0;
+        return query(1, 1, n, l, r);
+    }
+};
+
+class Solution {
+public:
+    long long maxAlternatingSum(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<long long> dpUp(n, -1), dpDown(n, -1);
+        const int MAXV = 100000;
 
-        for(int i = 0; i < n; i++)
-        {
-            // nums[i] is current element and we want to find where to put him as an upper and downer.
+        SegTree incTree(MAXV), decTree(MAXV);
 
-            if(i >= k)
-            {
-                // adding 'i-k'th one in both seg trees
-                // dpUp[i - k] has a val which says i am big, so segUp[nums[i-k]] should have the dpUp[i-k] val
-                update(1, 0, 100010, segUp, nums[i - k], dpUp[i - k]);
-                // similar shid
-                update(1, 0, 100010, segDown, nums[i - k], dpDown[i - k]);
+        vector<long long> inc(n), dec(n);
+        long long ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (i >= k) {
+                int j = i - k;
+                incTree.update(nums[j], inc[j]);
+                decTree.update(nums[j], dec[j]);
             }
 
-            // length 1 sequence
-            dpUp[i] = dpDown[i] = nums[i];
+            // Start with single element subsequence
+            inc[i] = dec[i] = nums[i];
 
-            // dpDown[i] -> i - 1 > i so now looking for big
-            // dpUp[i] -> i - 1 < i so now looking for small
+            // prev < nums[i] => extend a decreasing-ending subsequence
+            long long bestDec = decTree.query(1, nums[i] - 1);
+            inc[i] = max(inc[i], (long long)nums[i] + bestDec);
 
-            // query for max value for dpUp(segUp) from nums[i] + 1 to mex and write in dpDown[i]
-            long long mexPrevUp = query(1, 0, 100010, segUp, nums[i] + 1, 100010);
-            dpDown[i] = max(dpDown[i], mexPrevUp + nums[i]);
-            // query for max value for dpDown(segDown) from 0 to nums[i] - 1 and write in dpUp[i]
-            long long mexPrevDown = query(1, 0, 100010, segDown, 0, nums[i] - 1);
-            dpUp[i] = max(dpUp[i], mexPrevDown + nums[i]);
+            // prev > nums[i] => extend an increasing-ending subsequence
+            long long bestInc = incTree.query(nums[i] + 1, MAXV);
+            dec[i] = max(dec[i], (long long)nums[i] + bestInc);
+
+            ans = max({ans, inc[i], dec[i]});
         }
 
-        long long res = 0;
-        for(auto e : dpUp) res = max(res, e);
-        for(auto e : dpDown) res = max(res, e);
-        return res;
+        return ans;
     }
 };
