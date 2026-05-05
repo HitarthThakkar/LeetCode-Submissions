@@ -5,17 +5,16 @@ public:
     {
         if(!head || !head->next) return head;
         int len = 1;
-        ListNode* cur = head;
-        while(cur->next) { cur = cur->next; len++; }
+        ListNode* curEnd = head;
+        while(curEnd->next != NULL) curEnd = curEnd->next, len++;
         k %= len;
         if(k == 0) return head;
         int times = len - (k + 1);
         ListNode* newEnd = head;
-        ListNode* newHead = head;
         while(times--) newEnd = newEnd->next;
-        newHead = newEnd->next;
+        ListNode* newHead = newEnd->next;
         newEnd->next = NULL;
-        cur->next = head;
+        curEnd->next = head;
         return newHead;
     }
 };
