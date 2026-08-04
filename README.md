@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3699-count-special-subsequences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 | [3719-longest-balanced-subarray-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3751-maximum-frequency-after-subarray-operation) |
