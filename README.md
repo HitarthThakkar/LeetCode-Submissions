@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/HitarthThakkar/LeetCode-Submissions/tree/master/3463-alternating-groups-i) |
